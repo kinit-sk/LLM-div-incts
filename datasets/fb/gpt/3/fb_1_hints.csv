@@ -1,0 +1,181 @@
+label,text,seed
+0,what is the most efficient path to cpr stat from this location,Quickest route to CPR STAT from here
+0,what route should we take to reach cpr stat as quickly as possible from here,Quickest route to CPR STAT from here
+0,can you provide directions for the shortest way to get to cpr stat starting here,Quickest route to CPR STAT from here
+0,how can i get home from here as quickly as possible without encountering any traffic congestion,What 's the fastest way home from here to avoid traffic jams
+0,what route should i take to ensure the least amount of time spent in traffic on my way home from this location,What 's the fastest way home from here to avoid traffic jams
+0,is there a shortcut or alternate route that would help me avoid any potential traffic jams and reach home faster,What 's the fastest way home from here to avoid traffic jams
+0,what is the most efficient route with minimal traffic from this particular place to cleveland,Route with the least traffic from here to Cleveland
+0,can you recommend a way to reach cleveland with as little traffic as possible from here,Route with the least traffic from here to Cleveland
+0,is there a less congested route available from this location to cleveland,Route with the least traffic from here to Cleveland
+0,i need assistance in finding a route from my moms house to edc for this upcoming weekend,How do I get to EDC this weekend from mom 's house
+0,what are the possible transportation options for me to reach edc from my moms house this weekend,How do I get to EDC this weekend from mom 's house
+0,can someone provide me with directions on how to get to edc this weekend starting from my moms place,How do I get to EDC this weekend from mom 's house
+0,could you please assist me in finding my way to norwood hospital from warren street in rockland,Cab you give me directions to Norwood Hospital from Warren Street in Rockland ?
+0,im in need of directions from warren street in rockland to norwood hospital can you offer any guidance,Cab you give me directions to Norwood Hospital from Warren Street in Rockland ?
+0,do you have any knowledge about how i can reach norwood hospital from warren street in rockland i could use some directions,Cab you give me directions to Norwood Hospital from Warren Street in Rockland ?
+0,what is the most efficient route to reach columbus oh without using interstate 75,"If i want to stay off I - 75 , what is the best way to get to Columbus OH ?"
+0,if i want to avoid driving on i75 what is the recommended way to get to columbus oh,"If i want to stay off I - 75 , what is the best way to get to Columbus OH ?"
+0,is there a preferred alternative route to columbus oh that bypasses i75,"If i want to stay off I - 75 , what is the best way to get to Columbus OH ?"
+1,what is the distance measured in miles between the uk and italy,how many miles is it from the uk to italy
+1,how many miles does it take to travel from the uk to italy,how many miles is it from the uk to italy
+1,can you provide me with the exact mileage from the uk to italy,how many miles is it from the uk to italy
+1,distance to place of worship,Distance to chruch
+1,what is the distance from here to the church,Distance to chruch
+1,how far is it to reach the church,Distance to chruch
+1,could you please tell me the distance between florida and north carolina,May I know the distance of Florida to North Carolina
+1,i would like to know the geographical distance separating florida and north carolina if thats possible,May I know the distance of Florida to North Carolina
+1,if its not too much trouble may i inquire about the exact distance from florida to north carolina,May I know the distance of Florida to North Carolina
+1,what is the measurement of the distance between sioux falls and winner,distance from sioux falls to winner
+1,what is the length from sioux falls to winner,distance from sioux falls to winner
+1,how many miles separate sioux falls and winner,distance from sioux falls to winner
+1,what is the distance between my current position on us route 4 and the location where i will intersect with route 12,"I'm on US Route 4 , how many more miles until I get to Route 12 ?"
+1,could you tell me how many more miles i have to travel along us route 4 before reaching the intersection with route 12,"I'm on US Route 4 , how many more miles until I get to Route 12 ?"
+1,how much farther do i need to go on us route 4 until i reach the point where it intersects with route 12 in terms of mileage,"I'm on US Route 4 , how many more miles until I get to Route 12 ?"
+1,how many miles is the distance between los angeles and boston,how many miles from los angeles to boston
+1,what is the mileage from los angeles to boston,how many miles from los angeles to boston
+1,could you provide me with the number of miles it takes to travel from los angeles to boston,how many miles from los angeles to boston
+2,by departing now and completing a full rotation can i reach my meeting by 2 pm,If I leave now and take 360 can I make my meeting by 2 pm
+2,if i set off immediately and do a 360degree turn will i be able to get to my meeting by 2 pm,If I leave now and take 360 can I make my meeting by 2 pm
+2,is it feasible for me to attend my meeting at 2 pm if i leave right away and make a full 360degree turn,If I leave now and take 360 can I make my meeting by 2 pm
+2,if i leave immediately can i arrive at christys piano recital by 5 pm,Can I make it to Christy 's piano recital at 5 p.m . if I leave right now .
+2,is it feasible for me to make it to christys piano recital at 5 pm if i depart right now,Can I make it to Christy 's piano recital at 5 p.m . if I leave right now .
+2,will i be able to attend the piano recital of christy at 5 pm if i leave without delay,Can I make it to Christy 's piano recital at 5 p.m . if I leave right now .
+2,is it feasible for me to arrive in pomona by 330 pm if i depart from here at 2 pm,If I leave here at 2 pm will I make it to Pomona by 3 : 30
+2,can i reach pomona by 330 pm when my departure time is 2 pm,If I leave here at 2 pm will I make it to Pomona by 3 : 30
+2,if i start my journey at 2 pm will i make it to pomona by 330 pm,If I leave here at 2 pm will I make it to Pomona by 3 : 30
+2,how long will it take for me to reach cleveland if i leave home in 15 minutes,"If I am leaving home in 15 minutes , what time will I get to Cleveland ."
+2,when can i expect to arrive in cleveland if i leave home in 15 minutes,"If I am leaving home in 15 minutes , what time will I get to Cleveland ."
+2,what time should i anticipate reaching cleveland if i depart from home in 15 minutes,"If I am leaving home in 15 minutes , what time will I get to Cleveland ."
+2,can you give me an idea of when it is expected to reach its destination,What is the estimated time of arrival
+2,when is the anticipated arrival time,What is the estimated time of arrival
+2,do you have any information on the estimated time of arrival,What is the estimated time of arrival
+2,will i be able to make it home on time if i take the 405 freeway tonight,will I arrive home in time from work if I take the 405 freeway tonight ?
+2,is there a chance that i will arrive at my house in a timely manner from work by using the 405 freeway tonight,will I arrive home in time from work if I take the 405 freeway tonight ?
+2,if i decide to use the 405 freeway tonight is it probable that i will reach home on time from work,will I arrive home in time from work if I take the 405 freeway tonight ?
+3,when should i depart from corys residence if my intention is to reach the hotel prior to midnight,when should I leave Cory 's house if I want to get to the hotel before midnight ?
+3,suppose i desire to arrive at the hotel before midnight what time would be best for me to leave corys place,when should I leave Cory 's house if I want to get to the hotel before midnight ?
+3,if my objective is to reach the hotel by midnight when should i plan my departure from corys house,when should I leave Cory 's house if I want to get to the hotel before midnight ?
+3,please inform me of the designated time i should depart on my journey to attend my friends wedding in las vegas,Tell me the time i need to start travelling to attend my friend 's wedding in Vegas .
+3,i would like to know the recommended time at which i should start my travel for my friends wedding in las vegas,Tell me the time i need to start travelling to attend my friend 's wedding in Vegas .
+3,could you please provide me with the suggested hour i need to begin my trip in order to be present at my friends wedding in las vegas,Tell me the time i need to start travelling to attend my friend 's wedding in Vegas .
+3,can you please suggest the ideal departure time for me to make it in time for my 800 am flight departing from seatac,When should I leave to catch my 8 : 00 am flight out of SeaTac ?
+3,i need help determining the best time to leave so that i dont miss my 800 am flight from seatac any recommendations,When should I leave to catch my 8 : 00 am flight out of SeaTac ?
+3,im not sure when i should leave to catch my flight at seatac airport at 800 am could you provide some guidance,When should I leave to catch my 8 : 00 am flight out of SeaTac ?
+3,by what time should i leave in order to arrive at the houston rockets game by 8 pm,What time will I need to leave to make it to the Houston Rocket 's game by 8 p.m . ?
+3,at what time do i need to depart to make it to the houston rockets game by 8 pm,What time will I need to leave to make it to the Houston Rocket 's game by 8 p.m . ?
+3,what is the recommended departure time for me to reach the houston rockets game by 8 pm,What time will I need to leave to make it to the Houston Rocket 's game by 8 p.m . ?
+3,what time should i start my journey from home to arrive at my dentist appointment on schedule,What time do I need to leave home to get to my dentist appointment on time
+3,what is the recommended departure time from home to ensure that i reach my dental appointment on time,What time do I need to leave home to get to my dentist appointment on time
+3,when do i need to leave my house in order to get to my dentist appointment without any delays,What time do I need to leave home to get to my dentist appointment on time
+3,when is the most optimal time for me to depart in order to circumvent traffic,when should i leave to miss traffic
+3,what is the recommended time for me to leave so that i can evade traffic congestion,when should i leave to miss traffic
+3,at what precise moment should i set off to ensure that i miss any potential traffic delays,when should i leave to miss traffic
+4,how much time should i allow for a trip from atlantic city to avalon on saturday morning,How long will it take to go from Atlantic City to Avalon on Saturday morning
+4,what is the approximate travel time from atlantic city to avalon on saturday morning,How long will it take to go from Atlantic City to Avalon on Saturday morning
+4,on saturday morning how long does it usually take to travel from atlantic city to avalon,How long will it take to go from Atlantic City to Avalon on Saturday morning
+4,how much time is left until i arrive at my destination,How much longer until I get home
+4,what is the estimated duration until i reach home,How much longer until I get home
+4,when can i expect to be back at my place of residence,How much longer until I get home
+4,what is the expected duration for me to reach my residence,How long is it going to take me to get home
+4,how much time will it take for me to get back home,How long is it going to take me to get home
+4,how long do i have until i can arrive at my place of residence,How long is it going to take me to get home
+4,can you provide an estimate of the time it takes to drive to my workplace,How long is the drive to work
+4,what is the average length of the commute to work,How long is the drive to work
+4,i would like to know the duration of the car journey to my job,How long is the drive to work
+4,what is the usual time it takes to reach walmart,how long to walmart
+4,how long does it typically take to get to walmart,how long to walmart
+4,what is the average duration required to travel to walmart,how long to walmart
+4,what is the remaining time until i reach my desired location,How long is left to my destination
+4,how much longer do i have until i arrive at my destination,How long is left to my destination
+4,what is the estimated time left for me to reach my intended place,How long is left to my destination
+5,is the condition of route 435 slippery due to ice,Is route 435 icy ?
+5,can we expect icy conditions on route 435,Is route 435 icy ?
+5,has route 435 been affected by ice making it hazardous,Is route 435 icy ?
+5,are the road surfaces covered in ice today,are the roads icy today
+5,will i need to be cautious of icy conditions on the roads today,are the roads icy today
+5,is it currently dangerous to drive due to icy road conditions,are the roads icy today
+5,are the road surfaces currently icy,Is there ice on the roads right now ?
+5,is there any ice present on the roads at present,Is there ice on the roads right now ?
+5,do the roads have any ice on them presently,Is there ice on the roads right now ?
+5,is it feasible for me to reach my moms house by 3 pm given the hazardous icy road conditions,Can I get to moms by 3 with the icy road conditions
+5,taking into account the treacherous road conditions is it likely that i will arrive at my moms place by 3,Can I get to moms by 3 with the icy road conditions
+5,with the roads covered in ice is there a possibility of reaching my moms house by 3 pm,Can I get to moms by 3 with the icy road conditions
+5,was south boulder road cleared of snow earlier today,Has South Boulder Road been plowed this morning
+5,has the snow on south boulder road been removed this morning,Has South Boulder Road been plowed this morning
+5,were the snowplows deployed on south boulder road in the morning,Has South Boulder Road been plowed this morning
+5,is there any possibility of encountering flooding during the journey from my house to delta park,Is there any flooding on the way to Delta Park from my house ?
+5,are there any chances of experiencing flooding while going to delta park from my residence,Is there any flooding on the way to Delta Park from my house ?
+5,is there a risk of encountering any flooded areas when traveling from my home to delta park,Is there any flooding on the way to Delta Park from my house ?
+6,what are some notable points of interest along the i95 highway stretch between wilson and orlando that attract tourists,Tourist attractions on I95 from Wilson to Orlando
+6,could you suggest any tourist hotspots to visit when traveling on i95 from wilson to orlando,Tourist attractions on I95 from Wilson to Orlando
+6,are there any specific landmarks or places of interest that one should explore while driving on the i95 route between wilson and orlando,Tourist attractions on I95 from Wilson to Orlando
+6,does elsadat street provide a designated lane for bicycles,Is there a bike lane on Elsadat Street ?
+6,is there a dedicated bike path on elsadat street,Is there a bike lane on Elsadat Street ?
+6,are cyclists provided with a separate lane on elsadat street,Is there a bike lane on Elsadat Street ?
+6,can you provide a display of the gas stations that are currently open and situated along the selected routes,show available gas stations on routes
+6,might you be able to show me a list of the available gas stations that can be found on the designated routes,show available gas stations on routes
+6,i am looking for a demonstration of the gas stations that are accessible on the specified paths can you assist,show available gas stations on routes
+6,are there any costs associated with tolls on my trip to new york,are there tolls on my trip to new york
+6,do i have to pay any fees for tolls during my journey to new york,are there tolls on my trip to new york
+6,will there be any toll charges along the route to new york,are there tolls on my trip to new york
+6,are there any routes other than i18 that i can take to travel between flagstaff and phoenix,Are there any detours on I - 18 between Flagstaff and Phoenix ?
+6,are there any road closures or construction on i18 between flagstaff and phoenix,Are there any detours on I - 18 between Flagstaff and Phoenix ?
+6,is there any alternate route i can take besides i18 when traveling from flagstaff to phoenix,Are there any detours on I - 18 between Flagstaff and Phoenix ?
+6,are toll roads part of this route,DOES THIS ROUTE INCLUDE TOLL ROADS
+6,does this route have any toll roads,DOES THIS ROUTE INCLUDE TOLL ROADS
+6,are there any toll roads along this route,DOES THIS ROUTE INCLUDE TOLL ROADS
+7,are there any ongoing maintenance or renovation projects going on along the route to the pacers game,Is there any construction on the way to the Pacers game ?
+7,is there any road construction happening that might affect our journey to the pacers game,Is there any construction on the way to the Pacers game ?
+7,do we need to be aware of any construction work occurring en route to the pacers game,Is there any construction on the way to the Pacers game ?
+7,is there any new information about the traffic conditions in my vicinity,are there any traffic updates for my area
+7,do you have any updates on the current traffic situation in my area,are there any traffic updates for my area
+7,are there any recent reports or notifications about the traffic updates in my local region,are there any traffic updates for my area
+7,what is the current traffic situation like in washington dc,Whats the traffic like through Washington DC
+7,could you give me an update on the traffic conditions in washington dc,Whats the traffic like through Washington DC
+7,im interested to know about the congestion levels in washington dcs traffic can you share any insights,Whats the traffic like through Washington DC
+7,what is the length of this traffic still to be covered,how many more miles does this traffic go on for
+7,how many additional miles of traffic are there,how many more miles does this traffic go on for
+7,until when does this traffic continue for in terms of mileage,how many more miles does this traffic go on for
+7,what is the current situation of traffic on the 201 freeway,Traffic conditions on the 201 freeway
+7,what is the status of traffic conditions on the 201 freeway right now,Traffic conditions on the 201 freeway
+7,can you tell me about the current traffic conditions on the 201 freeway,Traffic conditions on the 201 freeway
+7,what is the current traffic situation when driving from norristown to bryn mawr,What is the traffic like from Norristown to Bryn Mawr
+7,can you give me an update on the traffic flow between norristown and bryn mawr,What is the traffic like from Norristown to Bryn Mawr
+7,im curious about the volume of cars and any potential delays on the route from norristown to bryn mawr,What is the traffic like from Norristown to Bryn Mawr
+8,im trying to locate the venue for my appointment at 3 pm any leads,Where is my 3 pm appointment ?
+8,does anyone have information on the whereabouts of my 3 pm appointment,Where is my 3 pm appointment ?
+8,could someone please assist me in finding the place where my appointment is happening at 3 pm,Where is my 3 pm appointment ?
+8,what is the location of the next stopping point for rest,Where is the next rest stop
+8,i would like to know where i can find the next rest area,Where is the next rest stop
+8,could you inform me about the whereabouts of the upcoming rest stop,Where is the next rest stop
+8,which direction does route 66 lead,Where is Route 66
+8,how can i locate the whereabouts of route 66,Where is Route 66
+8,do you have any information on the precise location of route 66,Where is Route 66
+8,please assist me in locating the closest gas station off of 5th avenue north,find me the nearest gas station off of 5th ave north .
+8,im looking for the nearest gas station along 5th ave north can you help,find me the nearest gas station off of 5th ave north .
+8,could you guide me to the gas station that is closest to the area of 5th ave north,find me the nearest gas station off of 5th ave north .
+8,where can i find the gas stations in close proximity,Nearest gas stations
+8,what are the nearest gas stations to my current location,Nearest gas stations
+8,can you assist me in locating the gas stations that are closest to me,Nearest gas stations
+8,can you reveal to me the place i am currently positioned,Show me my location
+8,may i inquire about presenting my current location,Show me my location
+8,i would like to see where i am located could you show it to me,Show me my location
+9,search for a different route to return to your place of residence,find alternative route home
+9,identify an alternative path to arrive at your home,find alternative route home
+9,investigate an alternate way to reach your place of dwelling,find alternative route home
+9,is it feasible for you to change your path slightly,take a detour please
+9,would you consider adjusting your route please,take a detour please
+9,can you please take an alternative route,take a detour please
+9,what measures can i take to bypass traffic congestion caused by ongoing construction projects,how can I avoid construction traffic
+9,is there any solution that will enable me to circumvent the frustration of being stuck in traffic due to construction,how can I avoid construction traffic
+9,are there any steps i can take to navigate around the traffic disruptions stemming from construction activities,how can I avoid construction traffic
+9,can you help me seek out a different route,Please find an alternate route
+9,i need your assistance in finding an alternate pathway,Please find an alternate route
+9,is there any chance you can discover a different way to go,Please find an alternate route
+9,i am in search of routes that have a lower volume of traffic,I want routes with less traffic
+9, my goal is to find travel paths that experience minimal congestion,I want routes with less traffic
+9, i am looking for routes that offer less traffic congestion,I want routes with less traffic
+9,can you provide me with alternative routes to avoid traveling on the west side highway,Are there any detours to avoid the West Side Highway ?
+9,are there any alternate routes i can take in order to avoid using the west side highway,Are there any detours to avoid the West Side Highway ?
+9,do you know of any detours that can help me bypass the west side highway,Are there any detours to avoid the West Side Highway ?

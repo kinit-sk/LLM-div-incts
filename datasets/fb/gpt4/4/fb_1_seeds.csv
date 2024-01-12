@@ -1,0 +1,181 @@
+label,text,seed
+0,what is the quickest way to reach the grocery store,What is the fastest route to the grocery store
+0,which route allows for the speediest arrival at the grocery store,What is the fastest route to the grocery store
+0,how can i get to the grocery store in the shortest amount of time,What is the fastest route to the grocery store
+0,find a route to the office that arrives by 650 am,Pull up a route to office with arrival of 650 am
+0,show me a pathway to reach the office with an arrival time of 650 am,Pull up a route to office with arrival of 650 am
+0,determine a course to get to the office ensuring arrival at 650 am,Pull up a route to office with arrival of 650 am
+0,is taking the freeway the fastest way to reach davids place,Should I take the freeway to get to David 's the quickest ?
+0,would using the freeway help me get to davids more quickly,Should I take the freeway to get to David 's the quickest ?
+0,to arrive at davids as soon as possible should i opt for the freeway,Should I take the freeway to get to David 's the quickest ?
+0,what is the nocost path to take from ones residence to seaworld,What is the toll free route from home to Seaworld
+0,which way allows travel from home to seaworld without incurring any toll fees,What is the toll free route from home to Seaworld
+0,how can one get from their house to seaworld while avoiding toll roads,What is the toll free route from home to Seaworld
+0,is there an alternative route to centralia for the basketball match,Is there a back way to centralia to the basketball game
+0,can one access centralia through a different path for the basketball game,Is there a back way to centralia to the basketball game
+0,does a secondary route to centralia exist for attending the basketball event,Is there a back way to centralia to the basketball game
+0,can you provide me with the route to burbanks ikea starting from courtneys place,I need directions to Ikea in Burbank from Courtney 's house
+0,how do i get to the ikea store in burbank if im coming from courtneys residence,I need directions to Ikea in Burbank from Courtney 's house
+0,what is the best way to reach the ikea located in burbank when leaving from courtneys home,I need directions to Ikea in Burbank from Courtney 's house
+1,what is the length separating los angeles and provo utah,"What is the distance between LA and Provo , Utah"
+1,how far away is provo utah from los angeles,"What is the distance between LA and Provo , Utah"
+1,can you tell me the distance from la to provo utah,"What is the distance between LA and Provo , Utah"
+1,what is the distance in miles between maine and washington dc,how many miles from Maine to Washington dc
+1,how many miles separate maine from washington dc,how many miles from Maine to Washington dc
+1,can you tell me the mile count from maine to washington dc,how many miles from Maine to Washington dc
+1,what is the length between washington dc and atlanta ga,"What is distance from washington , dc to Atlanta GA"
+1,how far is it from washington dc to atlanta ga,"What is distance from washington , dc to Atlanta GA"
+1,whats the separation in miles between washington dc and atlanta ga,"What is distance from washington , dc to Atlanta GA"
+1,what is the distance from pensacola florida to key west florida,"Distance between Pensacola FL and Key West , FL"
+1,how far apart are pensacola fl and key west fl,"Distance between Pensacola FL and Key West , FL"
+1,how many miles separate pensacola florida and key west florida,"Distance between Pensacola FL and Key West , FL"
+1,what is the distance in miles between america and russia,How many miles from America to Russia
+1,how many miles are there from the united states to russia,How many miles from America to Russia
+1,whats the mile count separating america and russia,How many miles from America to Russia
+1,what is the distance between hawaii and los angeles,How far is Hawaii from LA
+1,how many miles separate hawaii from la,How far is Hawaii from LA
+1,from la to hawaii what is the approximate distance,How far is Hawaii from LA
+2,what time should i expect to reach downtown if i catch a bus now,"If I take a bus to downtown now , when should I arrive ?"
+2,taking a bus to downtown right now when am i likely to get there,"If I take a bus to downtown now , when should I arrive ?"
+2,if i board a bus for downtown at this moment when would be my estimated arrival time,"If I take a bus to downtown now , when should I arrive ?"
+2,if i depart at 10 am when will i arrive at kennywood,What time will I get to Kennywood if I leave at 10 am
+2,leaving at 10 am when can i expect to reach kennywood,What time will I get to Kennywood if I leave at 10 am
+2,at what time would i make it to kennywood if my departure is at 10 am,What time will I get to Kennywood if I leave at 10 am
+2,departing from here at 5 am what time will i arrive at my job,"If I leave here at 5 am , when will I get to my work"
+2,at what time will i reach my workplace if i depart from here at 5 in the morning,"If I leave here at 5 am , when will I get to my work"
+2,assuming i exit this location at 5 am when can i expect to make it to my place of employment,"If I leave here at 5 am , when will I get to my work"
+2,is it possible for me to reach dothan from this location before midnight,Can I get from here to dothan by midnight ?
+2,will i be able to make it to dothan by midnight starting from here,Can I get from here to dothan by midnight ?
+2,from this point can i arrive in dothan prior to midnight,Can I get from here to dothan by midnight ?
+2,if i depart right away can i arrive at downtown new bern by 4 pm,Can I get to downtown New Bern by 4 pm if I leave now ?
+2,is it possible for me to reach downtown new bern by 4 pm if i set off immediately,Can I get to downtown New Bern by 4 pm if I leave now ?
+2,will i make it to downtown new bern by 4 pm if i start my journey at this moment,Can I get to downtown New Bern by 4 pm if I leave now ?
+2,what time will i reach golden man house if i depart from maadi at 5 pm,if i leave by 5 PM from maadi what time will i arrive to golden man house ?
+2,if i set off for golden man house from maadi at 5 pm when can i expect to get there,if i leave by 5 PM from maadi what time will i arrive to golden man house ?
+2,upon leaving maadi at 5 pm at what time can i anticipate arriving at golden man house,if i leave by 5 PM from maadi what time will i arrive to golden man house ?
+3,at what time should i depart this evening,When do I need to leave tonight ?
+3,when is it necessary for me to head out tonight,When do I need to leave tonight ?
+3,what time must i take off tonight,When do I need to leave tonight ?
+3,to arrive at movement in boulder by 500 to collect my son what time should i depart from my house,I need to pick up my son at Movement in Boulder at 5 : 00 . What time should I leave my house to make it there on time
+3,in order to be on time for picking up my son at movement in boulder at 500 when should i set out from home,I need to pick up my son at Movement in Boulder at 5 : 00 . What time should I leave my house to make it there on time
+3,what is the appropriate time for me to leave home to ensure punctual retrieval of my child at 500 from movement in boulder,I need to pick up my son at Movement in Boulder at 5 : 00 . What time should I leave my house to make it there on time
+3,in order to arrive at the justin timberlake concert by 5 pm at what time must i depart,If I want to get to the Justin Timberlake concert by 5 pm what time should I leave ?
+3,what is the departure time required to reach the justin timberlake concert by 5 pm,If I want to get to the Justin Timberlake concert by 5 pm what time should I leave ?
+3,to be present at the justin timberlake concert by 5 pm when should my leaving time be,If I want to get to the Justin Timberlake concert by 5 pm what time should I leave ?
+3,at what time should i depart for my job if i have to arrive by 8,"when should i leave for work , i need to be there at 8"
+3,when do i need to head out for work in order to be there at 8,"when should i leave for work , i need to be there at 8"
+3,whats the best time to set off for employment considering an 8 oclock arrival,"when should i leave for work , i need to be there at 8"
+3,at what time must i depart in order to arrive at the hornets match by 3 pm,What time should I leave to make it to the Hornets game by 3 pm ?
+3,by which hour should i head out to ensure i reach the hornets game by 3 pm,What time should I leave to make it to the Hornets game by 3 pm ?
+3,when is the latest i should set off to be present for the hornets contest at 3 pm,What time should I leave to make it to the Hornets game by 3 pm ?
+3,what time should i depart to evade traffic congestion,When should I leave to avoid traffic
+3,at what moment should i exit to bypass heavy traffic,When should I leave to avoid traffic
+3,when is it best for me to head out so as to steer clear of traffic jams,When should I leave to avoid traffic
+4,how long does it take to reach telluride via main road before 11 pm,"using Main road , how long will it take to get to Telluride before 11 pm"
+4,what is the duration required to arrive at telluride on main road prior to 11 pm,"using Main road , how long will it take to get to Telluride before 11 pm"
+4,before 11 pm how much time is needed to travel to telluride on main road,"using Main road , how long will it take to get to Telluride before 11 pm"
+4,what is the duration of the journey from my current location to polo pet shop by car,How long will it take me to drive from here to Polo Pet Shop ?
+4,how much time do i need to travel from this place to polo pet shop while driving,How long will it take me to drive from here to Polo Pet Shop ?
+4,can you tell me the estimated time for a car trip from where we are now to polo pet shop,How long will it take me to drive from here to Polo Pet Shop ?
+4,could you inform me of the duration it would take for me to drive back to my house,Can you tell me how long it will take me to drive home
+4,is it possible for you to give an estimate on the time needed for me to reach home by car,Can you tell me how long it will take me to drive home
+4,can you provide an approximate time it will take for me to get home while driving,Can you tell me how long it will take me to drive home
+4,if i depart at 3 pm what will be the duration of my drive to 1980 churchill street,How long will the drive be to 1980 Churchill Street if I leave at 3 pm ?
+4,leaving at 3 pm how much time will it take to reach 1980 churchill street by car,How long will the drive be to 1980 Churchill Street if I leave at 3 pm ?
+4,what is the estimated driving time to 1980 churchill street if i set off at 3 pm,How long will the drive be to 1980 Churchill Street if I leave at 3 pm ?
+4,including traffic what is the duration of the drive from home to myrtle beach,How long is the drive to Myrtle Beach from home including traffic ?
+4,taking into account traffic how much time does it take to drive from home to myrtle beach,How long is the drive to Myrtle Beach from home including traffic ?
+4,considering traffic what is the estimated travel time for a drive to myrtle beach from home,How long is the drive to Myrtle Beach from home including traffic ?
+4,how long does it take to travel to my office on saturday afternoon,On Saturday afternoon how long is the trip to my office
+4,what is the duration of the journey to my workspace on a saturday afternoon,On Saturday afternoon how long is the trip to my office
+4,on a saturday afternoon whats the length of time required to get to my office,On Saturday afternoon how long is the trip to my office
+5,before the downtown festival begins will the road ice have dissipated,Will the ice on the road have cleared up before the festival downtown starts ?
+5,is it likely that the ice on the road will be gone prior to the commencement of the downtown festival,Will the ice on the road have cleared up before the festival downtown starts ?
+5,will the frozen patches on the street be resolved by the time the downtown event kicks off,Will the ice on the road have cleared up before the festival downtown starts ?
+5,are there any roads inundated with water,any flooded roads ?
+5,can you find any roads experiencing flooding,any flooded roads ?
+5,is there any occurrence of flooded streets,any flooded roads ?
+5,is the i20 still covered in ice tonight,is I - 20 still icy tonight
+5,will there be icy conditions on i20 tonight,is I - 20 still icy tonight
+5,can i expect icy roads on i20 this evening,is I - 20 still icy tonight
+5,is there going to be dense fog again this morning during my commute to work,Will the fog be heavy again this morning going to work
+5,will i encounter thick fog once more on my way to work this morning,Will the fog be heavy again this morning going to work
+5,this morning is it expected for the fog to be as intense as before while heading to work,Will the fog be heavy again this morning going to work
+5,was the bridge road flooding a result of the rain,Did the rain cause the bridge road to flood ?
+5,did the downpour lead to the bridge road becoming inundated,Did the rain cause the bridge road to flood ?
+5,can the rainfall be blamed for the flooded bridge road,Did the rain cause the bridge road to flood ?
+5,is it safe to drive on the roads today or is excessive snowfall making it difficult,are the roads safe today or is there too much snow to be able to drive ?
+5,can we safely navigate the roads today or does an abundance of snow hinder driving conditions,are the roads safe today or is there too much snow to be able to drive ?
+5,are the roadways secure for travel today or has heavy snow created obstacles for drivers,are the roads safe today or is there too much snow to be able to drive ?
+6,can i find a gas station along my path,Is there a gas station on my route
+6,is a fuel station available on my journey,Is there a gas station on my route
+6,does my route include a gas station,Is there a gas station on my route
+6,what are the locations of the hov lane exits from this point to dallas,WHERE ARE THE HOV LANE EXITS BETWEEN HERE AND DALLAS
+6,between this place and dallas which exits can be found for the hov lanes,WHERE ARE THE HOV LANE EXITS BETWEEN HERE AND DALLAS
+6,can you identify the hov lane exits situated between our current location and dallas,WHERE ARE THE HOV LANE EXITS BETWEEN HERE AND DALLAS
+6,on route 51 to moms house is there a convenience store available,Is there a convenience store on rout 51 going to mom 's house ?
+6,can i find a convenience store on route 51 while heading to my moms place,Is there a convenience store on rout 51 going to mom 's house ?
+6,is a convenience store present along route 51 when traveling towards my mothers house,Is there a convenience store on rout 51 going to mom 's house ?
+6,is there the presence of toll booths along the route from santos to são paulo,Are there any tolls between Santos and São Paulo ?
+6,can one expect to encounter any tolls when traveling from santos to são paulo,Are there any tolls between Santos and São Paulo ?
+6,do i need to pay for any toll crossings on my journey between santos and são paulo,Are there any tolls between Santos and São Paulo ?
+6,are there toll roads along this route,DOES THIS ROUTE INCLUDE TOLL ROADS
+6,is this course comprised of toll roads,DOES THIS ROUTE INCLUDE TOLL ROADS
+6,do we encounter toll roads on this path,DOES THIS ROUTE INCLUDE TOLL ROADS
+6,where can i find a place to refuel during my evening journey,Where can I stop for fuel along the evening route
+6,during the nighttime route where is there a location to fill up on fuel,Where can I stop for fuel along the evening route
+6,on my evening trip where are the spots to stop for gasoline,Where can I stop for fuel along the evening route
+7,how is the traffic on the route between milwaukee and chicago,What the traffic like from Milwaukee to Chicago
+7,what are the traffic conditions from milwaukee to chicago,What the traffic like from Milwaukee to Chicago
+7,can you describe the traffic situation when traveling from milwaukee to chicago,What the traffic like from Milwaukee to Chicago
+7,is there a congestion at the toll booth,Is there a backup at the toll booth
+7,are there any delays occurring at the toll booth,Is there a backup at the toll booth
+7,do we have a queue forming at the toll booth,Is there a backup at the toll booth
+7,what is the cause of the traffic congestion,why there is traffic
+7,what factors are contributing to the presence of traffic,why there is traffic
+7,can you explain the reasons behind the traffic buildup,why there is traffic
+7,what does the current traffic condition look like when heading towards target center,What is the traffic like on the way to the Target Center right now ?
+7,can you tell me about the present traffic situation on the way to the target center,What is the traffic like on the way to the Target Center right now ?
+7,how is the traffic at this moment when going to the target center,What is the traffic like on the way to the Target Center right now ?
+7,does green bay have a lot of traffic congestion today,is there heavy traffic in greenbay today
+7,green bays road conditions is it experiencing heavy traffic today,is there heavy traffic in greenbay today
+7,are the streets of green bay particularly crowded with vehicles today,is there heavy traffic in greenbay today
+7,is there an alternate route to take from home to the giants match,Are there any detours from home to the Giants ' game ?
+7,can i find any diversions on the way from my house to the giants game,Are there any detours from home to the Giants ' game ?
+7,are there other paths available from your residence to the giants event,Are there any detours from home to the Giants ' game ?
+8,where can i find the madinet nasr traffic administration,Where is Madinet Nasr Traffic administration ?
+8,what is the location of the madinet nasr traffic administration ,Where is Madinet Nasr Traffic administration ?
+8,can you tell me where the madinet nasr traffic administration is situated,Where is Madinet Nasr Traffic administration ?
+8,what is my present position,What 's my current location ?
+8,can you identify my existing whereabouts,What 's my current location ?
+8,where am i situated at the moment,What 's my current location ?
+8,on the road where can i find a gas station,Where there is a gas station on the road
+8,what is the location of a gas station along the road,Where there is a gas station on the road
+8,is there a gas station situated somewhere on the road,Where there is a gas station on the road
+8,is a bart station located close to my motherinlaws residence,is there a BART station near my mother in laws house
+8,does my motherinlaws house have a nearby bart station,is there a BART station near my mother in laws house
+8,can i find a bart station in the vicinity of my motherinlaws home,is there a BART station near my mother in laws house
+8,is a walkin clinic located within a 10minute distance from my accommodations,Is there an urgent care facility within 10 minutes of my hotel
+8,can i find an immediate care center no more than 10 minutes away from my lodging,Is there an urgent care facility within 10 minutes of my hotel
+8,does an urgent medical treatment center exist within a 10minute radius of where i am staying,Is there an urgent care facility within 10 minutes of my hotel
+8,locate the nearest parking area to my current position,Find the closest parking lot from my location
+8,identify the closest parking space around my whereabouts,Find the closest parking lot from my location
+8,discover the most proximate parking facility to where i am now,Find the closest parking lot from my location
+9,whats a different path to reach the beach while bypassing the congestion,What is an alternative route to get to the beach to avoid the traffic
+9,can you suggest another way to go to the beach without encountering heavy traffic,What is an alternative route to get to the beach to avoid the traffic
+9,is there a substitute course to arrive at the shoreline that will help me steer clear of the traffic,What is an alternative route to get to the beach to avoid the traffic
+9,is there a quicker method to bypass congestion,is there a faster way that avoids traffic
+9,can we find a swifter route that evades heavy traffic,is there a faster way that avoids traffic
+9,does a speedier alternative exist for circumventing traffic jams,is there a faster way that avoids traffic
+9,is it a good idea to consider an alternate path while returning home,Should I take a different route home
+9,would it be wise to explore a new way back home,Should I take a different route home
+9,should i choose a distinct course when going home,Should I take a different route home
+9,please change the direction,"Reroute , please"
+9,kindly redirect if possible,"Reroute , please"
+9,can you adjust the course please,"Reroute , please"
+9,can i reach old town more quickly,Is there a faster way to get to Old Town
+9,is there a quicker method to arrive at old town,Is there a faster way to get to Old Town
+9,whats the swiftest route to get to old town,Is there a faster way to get to Old Town
+9,is there a quicker route to get home,is there a shorter way to home
+9,can i find a more direct path to my house,is there a shorter way to home
+9,does a shorter way to reach home exist,is there a shorter way to home

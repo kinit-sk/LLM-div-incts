@@ -1,0 +1,184 @@
+label,text,seed
+0,im trying to get to downtown denver via bus can you tell me which bus route i should take,Which bus takes me to downtown Denver ?
+0,im looking for the best bus option to get me to downtown denver can you help me out,Which bus takes me to downtown Denver ?
+0,im planning a trip to downtown denver and want to take the bus which bus route would you recommend,Which bus takes me to downtown Denver ?
+0,id like to get to walmart but id prefer to avoid the main roads can you give me directions using only the back streets,take me to walmart only using the back streets .
+0,im looking for a route to walmart thats a bit more off the beaten path can you provide me with directions that stick to the back streets,take me to walmart only using the back streets .
+0,im trying to get to walmart without using the main highways can you give me a route that takes me through the back streets and alleys,take me to walmart only using the back streets .
+0,what are my alternatives for getting home without using the highway from this location,How can I get home without taking the freeway from here ?
+0,id like to avoid the freeway are there any other ways to get home from here,How can I get home without taking the freeway from here ?
+0,can i find a route home that doesnt involve taking the freeway are there any other options,How can I get home without taking the freeway from here ?
+0,could you provide me with directions to the atlanta airport that avoid any construction areas,Get me directions to the Atlanta airport with out construction .
+0,im looking for a route to the atlanta airport that doesnt include any construction zones can you help me with that,Get me directions to the Atlanta airport with out construction .
+0,i need directions to the atlanta airport that steer clear of any construction projects can you give me an alternative route,Get me directions to the Atlanta airport with out construction .
+0,what is the most efficient route to take to avoid congestion in the city center,fastest route to avoid traffic downtown
+0,how can i avoid traffic jams while driving through downtown,fastest route to avoid traffic downtown
+0,whats the best way to get to my destination quickly without getting caught in traffic in the city,fastest route to avoid traffic downtown
+0,im looking for directions to the boston aquarium from jamaica pond can you help me out,Can you tell me how to get Boston Aquarium from the Jamaica Pond ?
+0,can you provide me with instructions on how to get to the boston aquarium starting from jamaica pond,Can you tell me how to get Boston Aquarium from the Jamaica Pond ?
+0,im trying to plan a trip to the boston aquarium and im not sure how to get there from jamaica pond can you give me some guidance,Can you tell me how to get Boston Aquarium from the Jamaica Pond ?
+1,what is the distance between the capital cities of the united states and the united kingdom,What is the distance between Washington D.C . to London
+1,how far is it from washington dc to london england,What is the distance between Washington D.C . to London
+1,what is the mileage between washington dc and london two of the worlds most iconic cities,What is the distance between Washington D.C . to London
+1,how far is it from vermont to maine,distance from Vermont to Maine
+1,what is the distance between vermont and maine,distance from Vermont to Maine
+1,vermont to maine how many miles separate the two states,distance from Vermont to Maine
+1,whats the remaining distance to my target location,How much further to my destination
+1,how many miles left until i reach my destination,How much further to my destination
+1,whats the approximate distance still left to travel to get to my final goal,How much further to my destination
+1,what is the distance to the closest medical center,How far is the nearest Hospital
+1,how far away is the nearest healthcare facility,How far is the nearest Hospital
+1,whats the proximity of the nearest hospital to my current location,How far is the nearest Hospital
+1,what is the distance to new york city,How far is it to New York City
+1,how many miles separate us from new york city,How far is it to New York City
+1,could you tell me the exact location of new york city in relation to our current position,How far is it to New York City
+1,how far is the park from my location when traveling by bicycle,Distance to the park on bike
+1,what is the distance between my current location and the park when riding a bike,Distance to the park on bike
+1,what is the bikeable distance to the park from here,Distance to the park on bike
+1,i hope these paraphrases meet your requirements,Distance to the park on bike
+2,if i depart from movie in the park at 7 pm what time can i expect to arrive in brunswick,If I leave Movie in the Park at 7 pm when will I get to Brunswick
+2,im planning to leave movie in the park at 7 pm can you estimate the time it will take me to reach brunswick,If I leave Movie in the Park at 7 pm when will I get to Brunswick
+2,im aiming to exit movie in the park at 7 pm when can i expect to arrive in brunswick considering the travel time,If I leave Movie in the Park at 7 pm when will I get to Brunswick
+2,if i depart at this moment how long will it take me to arrive considering the current traffic conditions,"If I leave now , how soon will I get there with traffic"
+2,im wondering how quickly ill reach my destination if i leave right now taking into account the traffic on the roads,"If I leave now , how soon will I get there with traffic"
+2,considering the traffic how long will it take me to get there if i leave immediately,"If I leave now , how soon will I get there with traffic"
+2,if i depart at 515 pm during rush hour can i still arrive on time for my 600 pm meeting,"With traffic at 5 pm , can I still make it to my 6 pm meeting if I leave at 515 pm ?"
+2,given the 500 pm traffic is it feasible to reach my 600 pm appointment if i leave at 515 pm,"With traffic at 5 pm , can I still make it to my 6 pm meeting if I leave at 515 pm ?"
+2,assuming i leave at 515 pm during peak traffic hours what are the chances that ill arrive at my 600 pm meeting on time,"With traffic at 5 pm , can I still make it to my 6 pm meeting if I leave at 515 pm ?"
+2,im leaving the office at 4 am what time can i expect to arrive at city hall,"If I leave office at 4 am , when will I get to the city hall ?"
+2,if i depart from work at 4 am when will i reach the municipal building,"If I leave office at 4 am , when will I get to the city hall ?"
+2,im exiting the office at 4 am when can i anticipate arriving at the town hall,"If I leave office at 4 am , when will I get to the city hall ?"
+2,if i depart right now is it possible to arrive in kelso by 4 pm,can I get to kelso by 4 if I leave in five minutes
+2,i have five minutes to spare can i make it to kelso by 4 oclock if i leave immediately,can I get to kelso by 4 if I leave in five minutes
+2,leaving in five minutes what are my chances of reaching kelso by 4 pm,can I get to kelso by 4 if I leave in five minutes
+2,if i depart at 700 am and use the highway what time can i expect to arrive at the doctors office,if i leave at 7 am and take the freeway what time will I make it to the drs ?
+2,suppose i leave my location at 700 am and take the freeway to get there when can i anticipate arriving at the doctors appointment,if i leave at 7 am and take the freeway what time will I make it to the drs ?
+2,i plan to leave my house at 700 am and use the freeway to get to the doctors office can you estimate the arrival time for me,if i leave at 7 am and take the freeway what time will I make it to the drs ?
+3,i want to arrive at the seahawks game by 7 pm what time should i depart to ensure i make it on time,What time should I leave to make it to the Seahawk 's game by 7 pm ?
+3,im planning to attend the seahawks game tonight which starts at 7 pm when should i leave my current location to ensure i arrive at the stadium on time,What time should I leave to make it to the Seahawk 's game by 7 pm ?
+3,im aiming to be at the seahawks game by 7 pm whats the earliest i should leave my current location to account for traffic and other factors that might impact my arrival time,What time should I leave to make it to the Seahawk 's game by 7 pm ?
+3,i have an appointment at pier 29 scheduled for 100 pm considering the ongoing construction what time should i plan my departure to ensure timely arrival,"I need to be at Pier 29 at 1 : 00 pm , so what time should I plan on leaving to get around the construction ?"
+3,i need to arrive at pier 29 by 100 pm with construction underway how early should i leave to avoid potential delays and arrive on time,"I need to be at Pier 29 at 1 : 00 pm , so what time should I plan on leaving to get around the construction ?"
+3,my meeting at pier 29 starts at 100 pm taking into account the current construction when should i plan to leave to ensure a smooth and timely arrival,"I need to be at Pier 29 at 1 : 00 pm , so what time should I plan on leaving to get around the construction ?"
+3,i want to arrive at the oasis show by 1 pm what time should i depart to ensure i make it on time,What time should I leave to make it to the Oasis show by 1 pm ?
+3,im planning to attend the oasis concert at 1 pm when should i leave to arrive at the venue on schedule,What time should I leave to make it to the Oasis show by 1 pm ?
+3,im aiming to be at the oasis show by 1 pm sharp whats the recommended departure time to ensure i dont miss the start of the concert,What time should I leave to make it to the Oasis show by 1 pm ?
+3,what time should i depart to ensure i arrive on time for my 645 reservation in the packing district,When would I need to leave in order to make it to a 6 : 45 reservation in the Packing District ?
+3,when do i need to leave my current location to make it to my 645 dinner reservation in the packing district,When would I need to leave in order to make it to a 6 : 45 reservation in the Packing District ?
+3,to avoid being late for my 645 reservation in the packing district whats the latest i can leave my current location,When would I need to leave in order to make it to a 6 : 45 reservation in the Packing District ?
+3,whats the latest i can leave sams and still make it home by midnight,what time do I need to head home from Sam 's and make it home by midnight ?
+3,how much time do i have before i need to leave sams to ensure im home by midnight,what time do I need to head home from Sam 's and make it home by midnight ?
+3,whats the ideal departure time from sams to ensure i arrive home by midnight,what time do I need to head home from Sam 's and make it home by midnight ?
+3,i need to be in cleveland at 3 pm what time should i depart from my home to ensure i arrive on time,"If I need to be in Cleveland at 3 pm , what time shall I leave from home ?"
+3,i have a meeting in cleveland at 3 pm when should i leave my house to make sure im there by the scheduled time,"If I need to be in Cleveland at 3 pm , what time shall I leave from home ?"
+3,im required to be in cleveland at 3 pm can you tell me what time i should leave my home to arrive promptly,"If I need to be in Cleveland at 3 pm , what time shall I leave from home ?"
+4,what is the estimated time of arrival for maine tonight,How long will it take to get to Maine tonight
+4,how many hours until we reach maine tonight,How long will it take to get to Maine tonight
+4,whats the latest we can expect to arrive in maine tonight,How long will it take to get to Maine tonight
+4,what is the approximate time required to reach washington dc,"How much time will I need to get to Washington , D.C . ?"
+4,how many hours will it take me to get to washington dc,"How much time will I need to get to Washington , D.C . ?"
+4,can you estimate the time it takes to travel to washington dc,"How much time will I need to get to Washington , D.C . ?"
+4,what is the estimated drive time to south carolina if i depart at 12 am and steer clear of tolls,How long will it take me to drive to South Carolina if I leave at midnight and avoid all the toll roads ?
+4,if i leave at midnight and take a tollfree route how long will it take me to reach south carolina,How long will it take me to drive to South Carolina if I leave at midnight and avoid all the toll roads ?
+4,assuming i leave at 1200 am and avoid toll roads how many hours will it take me to drive to south carolina,How long will it take me to drive to South Carolina if I leave at midnight and avoid all the toll roads ?
+4,what is the duration of johns birthday party that i need to attend,how long will I need to come to the john 's birthday party
+4,how long do i need to stay at johns birthday celebration,how long will I need to come to the john 's birthday party
+4,what is the time commitment for attending johns birthday gathering,how long will I need to come to the john 's birthday party
+4,determine the time it takes to reach newberry via interstate 95,Get the time to Newberry using i95
+4,calculate the time newberry can be reached through i95,Get the time to Newberry using i95
+4,find out how long it takes to get to newberry using i95 as your route,Get the time to Newberry using i95
+4,what is the estimated time of arrival if i were to embark on a road trip from my current location to san francisco,How long would it take to drive from home to San Francisco
+4,if i were to drive from my home to san francisco how many hours would it take me to reach my destination,How long would it take to drive from home to San Francisco
+4,considering the distance between my home and san francisco how long of a drive can i expect it to be if i were to travel by car,How long would it take to drive from home to San Francisco
+5,will the roads be slippery on my commute to work in the morning,Will it be icy on my way to work in the morning ?
+5,is there a chance of frost on the ground when i head to work in the morning,Will it be icy on my way to work in the morning ?
+5,will i need to be careful driving to work in the morning due to icy conditions,Will it be icy on my way to work in the morning ?
+5,will the wildfire impact my ability to drive,Does the brush fire affect my drive
+5,does the blaze have any effect on my journey,Does the brush fire affect my drive
+5,is my route affected by the spreading flames,Does the brush fire affect my drive
+5,have the airlines suspended operations because of inclement weather,Are the airlines shut down due to weather
+5,are flight services unavailable owing to adverse weather conditions,Are the airlines shut down due to weather
+5,has the poor weather led to the grounding of aircraft and the suspension of air travel,Are the airlines shut down due to weather
+5,what is the current state of the roads leading to my mothers house specifically passing by my aunts residence on 54th street in big stone gap virginia,What are the road conditions like going to my mother 's house passed my aunt 's on 54th Street in Big Stone Gap Virginia
+5,how are the roads looking these days when driving to my moms place which is located past my aunts house on 54th street in big stone gap virginia,What are the road conditions like going to my mother 's house passed my aunt 's on 54th Street in Big Stone Gap Virginia
+5,can someone tell me about the road conditions when heading to my mothers home which is situated past my aunts place on 54th street in big stone gap virginia,What are the road conditions like going to my mother 's house passed my aunt 's on 54th Street in Big Stone Gap Virginia
+5,is dallas experiencing any frozen weather conditions,Are there any icy conditions in Dallas ?
+5,are there any slippery roads or sidewalks in dallas due to ice,Are there any icy conditions in Dallas ?
+5,has the cold weather reached dallas causing any hazardous ice conditions,Are there any icy conditions in Dallas ?
+5,is the freeway experiencing heavy precipitation,Is there heavy rain in the freeway ?
+5,are there any storms or heavy rain showers on the freeway,Is there heavy rain in the freeway ?
+5,is the roadway flooded or congested due to heavy rain,Is there heavy rain in the freeway ?
+6,are there any fees or charges i need to pay to get from home to norfolk,Are there any tolls between home and Norfolk
+6,do i have to pay any tolls when driving from home to norfolk,Are there any tolls between home and Norfolk
+6,are there any charges or tolls i need to be aware of when traveling from home to norfolk,Are there any tolls between home and Norfolk
+6,can you provide an update on the current route conditions to chicago,What is the route like to Chicago right now ?
+6,whats the latest on the road conditions for the trip to chicago,What is the route like to Chicago right now ?
+6,hows the journey looking right now for those headed to chicago,What is the route like to Chicago right now ?
+6,will i encounter any tolls during my drive to new york,are there tolls on my trip to new york
+6,are there any fees or charges i need to pay on my way to new york,are there tolls on my trip to new york
+6,do i need to budget for tolls during my trip to new york or are the roads free,are there tolls on my trip to new york
+6,display fueling stations along the way,show available gas stations on routes
+6,provide a list of gas stations located on my route,show available gas stations on routes
+6,highlight gas stations that are accessible from my journey,show available gas stations on routes
+6,i hope these paraphrases meet your requirements let me know if you need further assistance,show available gas stations on routes
+6,are there any obstacles or charges that need to be paid to proceed,Is there any tolls in the way
+6,are there any fees or charges that need to be paid to move forward,Is there any tolls in the way
+6,are there any costs or expenses that need to be incurred to continue,Is there any tolls in the way
+6,i hope these paraphrases meet your requirements let me know if you need any further assistance,Is there any tolls in the way
+6,im heading to the atlanta braves game from work are there any toll roads along the way that i should be aware of,Are there any toll roads on my way to the Atlanta Braves game from work ?
+6,im planning to attend the braves game after work can anyone tell me if there are any toll roads on the route that ill need to pay for,Are there any toll roads on my way to the Atlanta Braves game from work ?
+6,im making my way to the braves game from the office does anyone know if there are any toll roads that ill encounter on the journey,Are there any toll roads on my way to the Atlanta Braves game from work ?
+7,congestion on the roads surrounding mount cross,traffic near mount cross road
+7,traffic congestion in the area of mount cross road,traffic near mount cross road
+7,heavy traffic volumes near the intersection of mount cross road,traffic near mount cross road
+7,is there an alternative route to my mothers home tonight,Are there any detours to my mom 's house tonight ?
+7,are there any divergent paths i can take to reach my moms place tonight,Are there any detours to my mom 's house tonight ?
+7,is there a way to get to my mothers house tonight that avoids the main road,Are there any detours to my mom 's house tonight ?
+7,how heavy is the traffic going to be on my way back home,what is the traffic like for my drive home
+7,whats the current state of the roads for my return journey,what is the traffic like for my drive home
+7,will there be any congestion issues that might affect my drive home,what is the traffic like for my drive home
+7,will the roads be congestionfree by 8 pm,Should traffic clear up by 8 pm
+7,is it likely that the traffic will have dissipated by 8 pm,Should traffic clear up by 8 pm
+7,can we expect the traffic to have improved by 8 pm,Should traffic clear up by 8 pm
+7,is the traffic signal currently showing green,Is traffic light now
+7,is it safe to proceed through the intersection now,Is traffic light now
+7,are the traffic lights in our favor at the moment,Is traffic light now
+7,my commute was slowed down by congested roads,heavy traffic on my route today
+7,i faced a lot of vehicles on the road making my journey longer than usual,heavy traffic on my route today
+7,the traffic was particularly heavy on my way to work today causing delays,heavy traffic on my route today
+8,find publix locations in my area,search for publix near me
+8,nearby publix stores,search for publix near me
+8,publix near my current location,search for publix near me
+8,im looking for the nearest jc penney store can you tell me where it is,Where is JC Penney
+8,jc penney is on my shopping list today do you know where i can find one near me,Where is JC Penney
+8,i need to pick up some items from jc penney can you give me directions to the closest location,Where is JC Penney
+8,can you tell me where i am right now,What 's my current location ?
+8,could you help me figure out my present location,What 's my current location ?
+8,im not sure where i am at the moment can you assist me in finding out my current location,What 's my current location ?
+8,can you tell me the location of tampa,where is tampa
+8,tampas whereabouts have escaped me could you kindly enlighten me,where is tampa
+8,im having trouble pinpointing tampa on the map would you be able to provide me with its coordinates or a general idea of its whereabouts,where is tampa
+8,is there a nearby bart station to my motherinlaws residence,is there a BART station near my mother in laws house
+8,does my motherinlaws house have convenient access to a bart station,is there a BART station near my mother in laws house
+8,is there a bart station within walking distance of my motherinlaws home,is there a BART station near my mother in laws house
+8,is there a nearby mailbox that i can reach within a 10minute drive,is there a mailbox less than a 10 minute drive from here
+8,is there a mailbox located less than 10 minutes away from my current location,is there a mailbox less than a 10 minute drive from here
+8,can i find a mailbox within a short driving distance of 10 minutes or less from here,is there a mailbox less than a 10 minute drive from here
+9,is there a faster route that i can take instead,is there an alternative route that is quicker
+9,are there any quicker alternatives to the current route,is there an alternative route that is quicker
+9,is there a more efficient way to get there rather than taking the usual route,is there an alternative route that is quicker
+9,chart a new course for me,take me a different route
+9,steer me in a different direction,take me a different route
+9,navigate a fresh path for me,take me a different route
+9,can you suggest a route that avoids congested areas,Can you show me a route with less traffic
+9,is there a way to get to my destination with minimal traffic,Can you show me a route with less traffic
+9,can you provide a route that minimizes traffic encounters,Can you show me a route with less traffic
+9,is there an alternative way to get to the beach,Can I take another route to the beach
+9,can i take a different path to the shore,Can I take another route to the beach
+9,is there a different route i can take to reach the beach,Can I take another route to the beach
+9,steer clear of highways,Avoid expressways
+9,bypass major roads,Avoid expressways
+9,take a detour around freeways,Avoid expressways
+9,are there any alternative routes i can take to avoid the traffic accident,Is there another route that I can go to avoid the traffic accident
+9,is there a different way to get to my destination that wont involve going through the traffic accident,Is there another route that I can go to avoid the traffic accident
+9,are there any other paths or roads i can take to avoid the congestion caused by the traffic accident,Is there another route that I can go to avoid the traffic accident

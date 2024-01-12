@@ -1,0 +1,450 @@
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.727, 'learning_rate': 1.4060606060606061e-05, 'epoch': 6.02}
+{'loss': 0.0015, 'learning_rate': 8.000000000000001e-06, 'epoch': 12.05}
+{'loss': 0.0007, 'learning_rate': 1.9393939393939395e-06, 'epoch': 18.07}
+{'train_runtime': 525.4569, 'train_samples_per_second': 12.56, 'train_steps_per_second': 3.159, 'train_loss': 0.21970306670809367, 'epoch': 20.0}
+{'eval_loss': 0.6331290006637573, 'eval_accuracy': 0.9043250327653998, 'eval_runtime': 18.5649, 'eval_samples_per_second': 41.099, 'eval_steps_per_second': 5.171, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.9275, 'learning_rate': 1.4201183431952663e-05, 'epoch': 5.88}
+{'loss': 0.0058, 'learning_rate': 8.284023668639054e-06, 'epoch': 11.76}
+{'loss': 0.0013, 'learning_rate': 2.366863905325444e-06, 'epoch': 17.65}
+{'train_runtime': 537.8806, 'train_samples_per_second': 12.531, 'train_steps_per_second': 3.161, 'train_loss': 0.2749655813417014, 'epoch': 20.0}
+{'eval_loss': 0.8341854214668274, 'eval_accuracy': 0.8505897771952818, 'eval_runtime': 18.5391, 'eval_samples_per_second': 41.156, 'eval_steps_per_second': 5.178, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.5279, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.001, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0019, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 531.8881, 'train_samples_per_second': 12.559, 'train_steps_per_second': 3.159, 'train_loss': 0.15802082685487612, 'epoch': 20.0}
+{'eval_loss': 3.1856837272644043, 'eval_accuracy': 0.5006553079947575, 'eval_runtime': 18.4965, 'eval_samples_per_second': 41.251, 'eval_steps_per_second': 5.19, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6577, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0011, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0006, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 534.6159, 'train_samples_per_second': 12.57, 'train_steps_per_second': 3.142, 'train_loss': 0.1962968433098424, 'epoch': 20.0}
+{'eval_loss': 1.875579595565796, 'eval_accuracy': 0.6920052424639581, 'eval_runtime': 18.5423, 'eval_samples_per_second': 41.149, 'eval_steps_per_second': 5.177, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6503, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.003, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0006, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 531.955, 'train_samples_per_second': 12.557, 'train_steps_per_second': 3.158, 'train_loss': 0.1946540968093489, 'epoch': 20.0}
+{'eval_loss': 0.6885946393013, 'eval_accuracy': 0.8768020969855832, 'eval_runtime': 18.4995, 'eval_samples_per_second': 41.244, 'eval_steps_per_second': 5.189, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.5291, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0014, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0009, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 534.5089, 'train_samples_per_second': 12.572, 'train_steps_per_second': 3.143, 'train_loss': 0.15824169292159024, 'epoch': 20.0}
+{'eval_loss': 0.4871024191379547, 'eval_accuracy': 0.9226736566186108, 'eval_runtime': 18.5047, 'eval_samples_per_second': 41.233, 'eval_steps_per_second': 5.188, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6203, 'learning_rate': 1.4201183431952663e-05, 'epoch': 5.88}
+{'loss': 0.0012, 'learning_rate': 8.284023668639054e-06, 'epoch': 11.76}
+{'loss': 0.0006, 'learning_rate': 2.366863905325444e-06, 'epoch': 17.65}
+{'train_runtime': 537.0836, 'train_samples_per_second': 12.549, 'train_steps_per_second': 3.165, 'train_loss': 0.18301022449837012, 'epoch': 20.0}
+{'eval_loss': 1.5098897218704224, 'eval_accuracy': 0.7601572739187418, 'eval_runtime': 18.5502, 'eval_samples_per_second': 41.132, 'eval_steps_per_second': 5.175, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6136, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0009, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0033, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 532.0187, 'train_samples_per_second': 12.556, 'train_steps_per_second': 3.158, 'train_loss': 0.18391478193391647, 'epoch': 20.0}
+{'eval_loss': 2.618974447250366, 'eval_accuracy': 0.5478374836173001, 'eval_runtime': 18.4984, 'eval_samples_per_second': 41.247, 'eval_steps_per_second': 5.19, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6001, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0027, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0009, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 535.0303, 'train_samples_per_second': 12.56, 'train_steps_per_second': 3.14, 'train_loss': 0.18046811496218046, 'epoch': 20.0}
+{'eval_loss': 2.085766553878784, 'eval_accuracy': 0.7024901703800787, 'eval_runtime': 18.5599, 'eval_samples_per_second': 41.11, 'eval_steps_per_second': 5.172, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.5607, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0011, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0005, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 532.1451, 'train_samples_per_second': 12.553, 'train_steps_per_second': 3.157, 'train_loss': 0.16737744213037548, 'epoch': 20.0}
+{'eval_loss': 0.595444917678833, 'eval_accuracy': 0.9056356487549148, 'eval_runtime': 18.5411, 'eval_samples_per_second': 41.152, 'eval_steps_per_second': 5.178, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.5834, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0013, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0007, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 535.0357, 'train_samples_per_second': 12.56, 'train_steps_per_second': 3.14, 'train_loss': 0.17426291681116535, 'epoch': 20.0}
+{'eval_loss': 0.36079537868499756, 'eval_accuracy': 0.9475753604193972, 'eval_runtime': 18.5636, 'eval_samples_per_second': 41.102, 'eval_steps_per_second': 5.171, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.622, 'learning_rate': 1.4201183431952663e-05, 'epoch': 5.88}
+{'loss': 0.0012, 'learning_rate': 8.284023668639054e-06, 'epoch': 11.76}
+{'loss': 0.0014, 'learning_rate': 2.366863905325444e-06, 'epoch': 17.65}
+{'train_runtime': 536.5737, 'train_samples_per_second': 12.561, 'train_steps_per_second': 3.168, 'train_loss': 0.18377600229400046, 'epoch': 20.0}
+{'eval_loss': 1.3629744052886963, 'eval_accuracy': 0.7876802096985583, 'eval_runtime': 18.4846, 'eval_samples_per_second': 41.278, 'eval_steps_per_second': 5.194, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.7428, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0032, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0006, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 531.5687, 'train_samples_per_second': 12.567, 'train_steps_per_second': 3.16, 'train_loss': 0.22224396890295403, 'epoch': 20.0}
+{'eval_loss': 1.5010480880737305, 'eval_accuracy': 0.7404980340760158, 'eval_runtime': 18.4979, 'eval_samples_per_second': 41.248, 'eval_steps_per_second': 5.19, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6804, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0012, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0006, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 534.9051, 'train_samples_per_second': 12.563, 'train_steps_per_second': 3.141, 'train_loss': 0.20307033929441656, 'epoch': 20.0}
+{'eval_loss': 0.7622625231742859, 'eval_accuracy': 0.8427260812581914, 'eval_runtime': 18.5472, 'eval_samples_per_second': 41.138, 'eval_steps_per_second': 5.176, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6966, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0014, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0006, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 532.0907, 'train_samples_per_second': 12.554, 'train_steps_per_second': 3.157, 'train_loss': 0.20797636125325447, 'epoch': 20.0}
+{'eval_loss': 0.5825775265693665, 'eval_accuracy': 0.8951507208387942, 'eval_runtime': 18.534, 'eval_samples_per_second': 41.168, 'eval_steps_per_second': 5.18, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.5812, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0157, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0005, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 534.7129, 'train_samples_per_second': 12.567, 'train_steps_per_second': 3.142, 'train_loss': 0.17786604382009025, 'epoch': 20.0}
+{'eval_loss': 0.5212875008583069, 'eval_accuracy': 0.9239842726081258, 'eval_runtime': 18.5603, 'eval_samples_per_second': 41.109, 'eval_steps_per_second': 5.172, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.5589, 'learning_rate': 1.4201183431952663e-05, 'epoch': 5.88}
+{'loss': 0.002, 'learning_rate': 8.284023668639054e-06, 'epoch': 11.76}
+{'loss': 0.0005, 'learning_rate': 2.366863905325444e-06, 'epoch': 17.65}
+{'train_runtime': 536.6028, 'train_samples_per_second': 12.561, 'train_steps_per_second': 3.168, 'train_loss': 0.16514410791589934, 'epoch': 20.0}
+{'eval_loss': 0.7368176579475403, 'eval_accuracy': 0.8885976408912188, 'eval_runtime': 18.4797, 'eval_samples_per_second': 41.289, 'eval_steps_per_second': 5.195, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6423, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0015, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0009, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 531.9658, 'train_samples_per_second': 12.557, 'train_steps_per_second': 3.158, 'train_loss': 0.19194888249926623, 'epoch': 20.0}
+{'eval_loss': 4.195066928863525, 'eval_accuracy': 0.381389252948886, 'eval_runtime': 18.518, 'eval_samples_per_second': 41.203, 'eval_steps_per_second': 5.184, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.5611, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0011, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0006, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 534.4295, 'train_samples_per_second': 12.574, 'train_steps_per_second': 3.144, 'train_loss': 0.16755821965191336, 'epoch': 20.0}
+{'eval_loss': 0.6497479677200317, 'eval_accuracy': 0.8885976408912188, 'eval_runtime': 18.4942, 'eval_samples_per_second': 41.256, 'eval_steps_per_second': 5.191, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.5648, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0013, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0006, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 531.9049, 'train_samples_per_second': 12.559, 'train_steps_per_second': 3.158, 'train_loss': 0.1687110943098863, 'epoch': 20.0}
+{'eval_loss': 0.43577030301094055, 'eval_accuracy': 0.9213630406290957, 'eval_runtime': 18.538, 'eval_samples_per_second': 41.159, 'eval_steps_per_second': 5.179, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.556, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0011, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0005, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 534.5107, 'train_samples_per_second': 12.572, 'train_steps_per_second': 3.143, 'train_loss': 0.16600191005993456, 'epoch': 20.0}
+{'eval_loss': 0.5298246145248413, 'eval_accuracy': 0.9069462647444299, 'eval_runtime': 18.5209, 'eval_samples_per_second': 41.197, 'eval_steps_per_second': 5.183, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.4368, 'learning_rate': 1.4201183431952663e-05, 'epoch': 5.88}
+{'loss': 0.0076, 'learning_rate': 8.284023668639054e-06, 'epoch': 11.76}
+{'loss': 0.0024, 'learning_rate': 2.366863905325444e-06, 'epoch': 17.65}
+{'train_runtime': 537.0304, 'train_samples_per_second': 12.551, 'train_steps_per_second': 3.166, 'train_loss': 0.13146296012927505, 'epoch': 20.0}
+{'eval_loss': 0.7593464851379395, 'eval_accuracy': 0.8885976408912188, 'eval_runtime': 18.5316, 'eval_samples_per_second': 41.173, 'eval_steps_per_second': 5.18, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6461, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0023, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0009, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 532.3052, 'train_samples_per_second': 12.549, 'train_steps_per_second': 3.156, 'train_loss': 0.19328393085105788, 'epoch': 20.0}
+{'eval_loss': 2.6500933170318604, 'eval_accuracy': 0.5124508519003932, 'eval_runtime': 18.5258, 'eval_samples_per_second': 41.186, 'eval_steps_per_second': 5.182, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6341, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0022, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0016, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 534.6274, 'train_samples_per_second': 12.57, 'train_steps_per_second': 3.142, 'train_loss': 0.18991395587633764, 'epoch': 20.0}
+{'eval_loss': 0.5616211295127869, 'eval_accuracy': 0.9056356487549148, 'eval_runtime': 18.5212, 'eval_samples_per_second': 41.196, 'eval_steps_per_second': 5.183, 'epoch': 20.0}
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so
+CUDA SETUP: CUDA runtime path found: /storage-apps/cuda/12.0.1/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 120
+CUDA SETUP: Loading binary /home/jancegin/miniconda3/envs/falcon-7b/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda120.so...
+{'loss': 0.6778, 'learning_rate': 1.4131736526946109e-05, 'epoch': 5.95}
+{'loss': 0.0014, 'learning_rate': 8.1437125748503e-06, 'epoch': 11.9}
+{'loss': 0.0007, 'learning_rate': 2.155688622754491e-06, 'epoch': 17.86}
+{'train_runtime': 532.0588, 'train_samples_per_second': 12.555, 'train_steps_per_second': 3.158, 'train_loss': 0.20239224639676867, 'epoch': 20.0}
+{'eval_loss': 0.5735939741134644, 'eval_accuracy': 0.9017038007863696, 'eval_runtime': 18.5227, 'eval_samples_per_second': 41.193, 'eval_steps_per_second': 5.183, 'epoch': 20.0}

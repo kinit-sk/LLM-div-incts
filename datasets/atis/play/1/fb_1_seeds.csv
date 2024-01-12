@@ -1,0 +1,145 @@
+label,text,seed
+0,what is the classification code for a business,what is the code for business class
+0,what is the identification number assigned to a business category,what is the code for business class
+0,can you provide the code that represents a business class,what is the code for business class
+0,could you please explain what dl is,what is dl
+0,im curious what does dl mean or stand for,what is dl
+0,can you provide more information about the term dl,what is dl
+0,can you provide information about ewr,what is ewr
+0,could you explain what ewr is,what is ewr
+0,what does the term ewr refer to,what is ewr
+0,could you please clarify the acronym nw,what does nw stand for
+0,can you explain the meaning of the abbreviation nw,what does nw stand for
+0,what is the definition or significance behind the term nw,what does nw stand for
+0,can you clarify what fare code qx means,explain fare code qx
+0,could you provide some information about the fare code qx,explain fare code qx
+0,can you tell me what a fare code qx represents,explain fare code qx
+0,could you please explain the meaning of the acronym ua,what does the abbreviation ua mean
+0,can you provide information on what the abbreviation ua stands for,what does the abbreviation ua mean
+0,can you clarify what the initials ua represent,what does the abbreviation ua mean
+1,what types of aircraft does united airlines operate,what planes does united use
+1,which airplanes are a part of uniteds fleet,what planes does united use
+1,what models of planes does united fly,what planes does united use
+1,which airplane has the highest number of seats,what aircraft has the largest seating capacity
+1,what airliner can accommodate the most passengers,what aircraft has the largest seating capacity
+1,among all aircraft which one can hold the largest amount of people,what aircraft has the largest seating capacity
+1,can you tell me the type of aircraft employed for a flight departing denver before 10 am and heading to san francisco if repeated multiple times,repeating leaving denver to san francisco before 10 am what type of aircraft is used
+1,what kind of airplane is utilized for a frequent journey from denver to san francisco particularly for those flights taking off prior to 10 am,repeating leaving denver to san francisco before 10 am what type of aircraft is used
+1,could you please provide information about the aircraft type that is commonly used for flights that frequently depart denver before 10 am and arrive in san francisco,repeating leaving denver to san francisco before 10 am what type of aircraft is used
+1,what kind of airplane is operated for the 8 am san francisco to atlanta flight,on the 8 am flight from san francisco to atlanta what type of aircraft is used
+1,could you please tell me the aircraft model utilized for the 8 am flight from san francisco to atlanta,on the 8 am flight from san francisco to atlanta what type of aircraft is used
+1,can you provide information on the specific aircraft type that will be used for the 8 am flight departing san francisco and arriving in atlanta,on the 8 am flight from san francisco to atlanta what type of aircraft is used
+1,can you demonstrate the kinds of airplanes employed by canadian airlines,show me the type of aircraft that canadian airlines uses
+1,can you provide examples of the aircraft types utilized by canadian airlines,show me the type of aircraft that canadian airlines uses
+1,can you illustrate the various types of planes that canadian airlines operate,show me the type of aircraft that canadian airlines uses
+1,which aircraft models operate flights between pittsburgh and baltimore,what airplane types fly from pittsburgh to baltimore
+1,what kinds of planes travel between pittsburgh and baltimore,what airplane types fly from pittsburgh to baltimore
+1,can you tell me the airplane types that fly from pittsburgh to baltimore,what airplane types fly from pittsburgh to baltimore
+2,what is the cost of coach tickets for flights departing charlotte and arriving in newark on tuesday night,what are the coach fares for flights from charlotte to newark tuesday evening
+2,could you please provide me with the price of coach fares for flights from charlotte to newark on tuesday evening,what are the coach fares for flights from charlotte to newark tuesday evening
+2,can you tell me the price of coach seats on flights leaving charlotte and heading to newark on a tuesday evening,what are the coach fares for flights from charlotte to newark tuesday evening
+2,please provide me with a list of all the firstclass fares for flights from baltimore to dallas,show me all prices of first class from baltimore to dallas
+2,could you display the prices for firstclass tickets for flights between baltimore and dallas,show me all prices of first class from baltimore to dallas
+2,id like to see a list of all the prices for firstclass flights departing from baltimore and arriving in dallas,show me all prices of first class from baltimore to dallas
+2,can you display the costs for a journey from new york to miami and back,show me round trip fares from new york to miami
+2,please provide me with round trip ticket prices between miami and new york,show me round trip fares from new york to miami
+2,i would like to see the expenses for a return trip from new york to miami,show me round trip fares from new york to miami
+2,can you provide me with fare options for flights departing on tuesdays from denver to dallas,show me fares leaving on tuesdays from denver to go to dallas
+2,please give me a list of prices for flights leaving denver on tuesdays and going to dallas,show me fares leaving on tuesdays from denver to go to dallas
+2,could you share with me the cost of flights leaving on tuesdays from denver and heading to dallas,show me fares leaving on tuesdays from denver to go to dallas
+2,is there a fee to go from oakland airport to downtown oakland,do you have the fare for traveling from oakland airport to oakland downtown
+2,are you aware of the cost to travel between oakland airport and downtown oakland,do you have the fare for traveling from oakland airport to oakland downtown
+2,what is the price for a trip from oakland airport to downtown oakland,do you have the fare for traveling from oakland airport to oakland downtown
+2,im interested in finding the most affordable single trip ticket from boston to san francisco,id like the cheapest one way fare from boston to san francisco
+2,could you help me locate the lowestpriced oneway flight option between boston and san francisco,id like the cheapest one way fare from boston to san francisco
+2,please provide me with information on the least expensive oneway airfare for travel between boston and san francisco,id like the cheapest one way fare from boston to san francisco
+3,which airlines are available,what airlines are there
+3,can you name some airlines,what airlines are there
+3,are there any specific airlines i can choose from,what airlines are there
+3,what is the meaning behind the airline code dl,what does the airline code dl stand for
+3,can someone explain the significance of the airline code dl,what does the airline code dl stand for
+3,what does the abbreviation dl represent in the context of airlines,what does the airline code dl stand for
+3,which carriers offer nonstop flights from washington to denver,which airlines provide direct flights between washington and denver
+3,can you tell me the names of airlines that fly straight to denver from washington,which airlines provide direct flights between washington and denver
+3,could you please inform me about the airlines that operate direct flights between washington and denver,which airlines provide direct flights between washington and denver
+3,could you please provide me with a list of airlines that operate flights between pittsburgh and boston,show me airlines with flights from pittsburgh to boston please
+3,can you assist me in finding airlines that fly from pittsburgh to boston,show me airlines with flights from pittsburgh to boston please
+3,please give me the names of airlines that have flights from pittsburgh to boston,show me airlines with flights from pittsburgh to boston please
+3,can you provide a list of airlines that offer flights from denver to boston making a stop in philadelphia,please show me airlines with flights from denver to boston with a stopover in philadelphia
+3,can you recommend some airlines that have flights from denver to boston with a stopover in philadelphia,please show me airlines with flights from denver to boston with a stopover in philadelphia
+3,could you please tell me which airlines have flights from denver to boston with a stop in philadelphia,please show me airlines with flights from denver to boston with a stopover in philadelphia
+3,which airlines offer flights from toronto to san diego with a layover in denver,which airlines fly from toronto to san diego and have a stopover in denver
+3,what airlines have routes between toronto and san diego stopping in denver,which airlines fly from toronto to san diego and have a stopover in denver
+3,are there any airlines that operate a torontosan diego flight making a stop in denver,which airlines fly from toronto to san diego and have a stopover in denver
+4,can you provide me with the departure time of your first flight from washington to philadelphia,i would like the time your earliest flight from washington to philadelphia
+4,im interested in knowing the schedule for your earliest flight from washington to philadelphia,i would like the time your earliest flight from washington to philadelphia
+4,what is the time of your earliest flight departing from washington and heading to philadelphia,i would like the time your earliest flight from washington to philadelphia
+4,could you please provide me with the schedules of flights departing from san francisco and arriving in pittsburgh on sunday,i would like the time of all flights from san francisco to pittsburgh on sunday
+4,can i get a list of flight timings for journeys between san francisco and pittsburgh on sunday,i would like the time of all flights from san francisco to pittsburgh on sunday
+4,id like to know the departure times of flights traveling from san francisco to pittsburgh this sunday,i would like the time of all flights from san francisco to pittsburgh on sunday
+4,can you provide the flight schedules for trips from pittsburgh to newark,please list the flight times from pittsburgh to newark
+4,would you be able to give me the departure and arrival times for flights between pittsburgh and newark,please list the flight times from pittsburgh to newark
+4,could you share the flight timings for journeys from pittsburgh to newark,please list the flight times from pittsburgh to newark
+4,please provide a list of available flights from san francisco to atlanta,show me times for flights from san francisco to atlanta
+4,can you share flight schedules for san francisco to atlanta routes,show me times for flights from san francisco to atlanta
+4,can you show me a timetable of flights from san francisco to atlanta,show me times for flights from san francisco to atlanta
+4,when do continental airlines flights from denver to san francisco depart,what time are flights from denver to san francisco on continental airlines
+4,what is the schedule for continental airlines flights from denver to san francisco,what time are flights from denver to san francisco on continental airlines
+4,can you provide me with the timings of continental airlines flights from denver to san francisco,what time are flights from denver to san francisco on continental airlines
+4,what is the flight timetable for atlanta to boston on august 1st,whats the schedule of flights from atlanta to boston on august first
+4,what are the departure times for flights from atlanta to boston on august 1st,whats the schedule of flights from atlanta to boston on august first
+4,can you provide me with the flight schedule from atlanta to boston on august 1st,whats the schedule of flights from atlanta to boston on august first
+5,can you display the delta flights from boston to denver before 11 am on august 2nd,show me the flights before 11 am on august second from boston to denver on delta
+5,please provide a list of flights departing before 11 am on august 2nd from boston to denver operated by delta airlines,show me the flights before 11 am on august second from boston to denver on delta
+5,can you show me the available delta flights leaving boston for denver prior to 11 am on the 2nd of august,show me the flights before 11 am on august second from boston to denver on delta
+5,traveling from dallas to oakland on a monday,dallas to oakland monday
+5,making a trip between dallas and oakland on the first day of the week,dallas to oakland monday
+5,journeying from one city to another dallas to oakland with the day being monday,dallas to oakland monday
+5,provide me with a list of flights departing from boston and arriving in washington dc before 9 am on july 22nd,show me a list of flights from boston to dc arriving before 9 am on july twenty second
+5,please present a list of flights from boston to washington dc with arrival times before 9 am on july 22nd,show me a list of flights from boston to dc arriving before 9 am on july twenty second
+5,can you show me a list of flights leaving boston and arriving in washington dc before 9 am on july 22nd,show me a list of flights from boston to dc arriving before 9 am on july twenty second
+5,what are the available round trip flights from philadelphia to san francisco,what are the round trip flights from philadelphia to san francisco
+5,can you provide information on round trip flights between philadelphia and san francisco,what are the round trip flights from philadelphia to san francisco
+5,how can i find round trip flights from philadelphia to san francisco,what are the round trip flights from philadelphia to san francisco
+5,can you provide a list of united airlines flights from denver to san francisco that operate on tuesdays or wednesdays,list united flights from denver to san francisco on tuesdays or wednesdays
+5,can you please show me a list of flights from denver to san francisco on united airlines that fly on tuesdays and wednesdays,list united flights from denver to san francisco on tuesdays or wednesdays
+5,can you provide me with a list of united airlines flights from denver to san francisco that operate on tuesdays and wednesdays,list united flights from denver to san francisco on tuesdays or wednesdays
+5,display all flight options between philadelphia and newark,show me all the flights from philadelphia to newark
+5,present the various flights departing from philadelphia and arriving in newark,show me all the flights from philadelphia to newark
+5,provide a list of all flights traveling from philadelphia to newark,show me all the flights from philadelphia to newark
+6,can you provide a count of early morning flights departing from boston to dallas fort worth before 9 am,list the number of flights leaving boston for dallas fort worth before 9 am in the morning
+6,how many flights are scheduled to leave boston for dallas fort worth prior to 9 oclock in the morning,list the number of flights leaving boston for dallas fort worth before 9 am in the morning
+6,please give me the number of flights that take off from boston and head to dallas fort worth before 9 in the morning,list the number of flights leaving boston for dallas fort worth before 9 am in the morning
+6,what is the number of united flights heading to san francisco,how many united flights are there to san francisco
+6,could you tell me the total united flights going to san francisco,how many united flights are there to san francisco
+6,how frequent are united flights traveling to san francisco,how many united flights are there to san francisco
+6,how many flights does continental operate to and from atlanta,how many flights has continental into and out of atlanta
+6,can you tell me the number of flights continental has between atlanta and other destinations,how many flights has continental into and out of atlanta
+6,what is the total count of continental flights both arriving and departing from atlanta,how many flights has continental into and out of atlanta
+6,how many layovers are there on continental flight 1765 between boston and san francisco,how many stops on continental 1765 from boston to san francisco
+6,what is the number of stops for continental flight 1765 traveling from boston to san francisco,how many stops on continental 1765 from boston to san francisco
+6,could you please provide the total layovers on continental flight number 1765 from boston to san francisco,how many stops on continental 1765 from boston to san francisco
+6,what is the number of cities that have firstclass flights operated by lufthansa,how many cities are served by lufthansa with first class flights
+6,how many destinations does lufthansa provide firstclass flights to,how many cities are served by lufthansa with first class flights
+6,could you tell me the quantity of cities that have lufthansa firstclass flights available,how many cities are served by lufthansa with first class flights
+6,on june 10th how many flights operated by american airlines will depart from denver,how many american airline flights leave denver june tenth
+6,how many american airlines flights are scheduled to leave denver on june 10th,how many american airline flights leave denver june tenth
+6,what is the number of american airline flights that will be leaving denver on the 10th of june,how many american airline flights leave denver june tenth
+7,is there any ground transportation available between the airport and downtown in boston,in boston is there ground transportation between airport and downtown
+7,are there options for traveling by land from bostons airport to the city center,in boston is there ground transportation between airport and downtown
+7,can one reach downtown from the airport using ground transportation in boston,in boston is there ground transportation between airport and downtown
+7,denver ground transportation options,ground transport denver
+7,how do i get around denver by land,ground transport denver
+7,what are the landbased transportation methods available in denver,ground transport denver
+7,what are the various forms of land transportation accessible in denver,what types of ground transportation are available in denver
+7,can you tell me the different modes of ground transportation that can be found in denver,what types of ground transportation are available in denver
+7,what are the options for getting around denver by land,what types of ground transportation are available in denver
+7,are there any transport options between the airport and downtown boston,is there ground transportation between airport and downtown in boston
+7,is there any form of transportation available to get from the airport to downtown boston,is there ground transportation between airport and downtown in boston
+7,what options are there for traveling between the airport and downtown boston by ground transportation,is there ground transportation between airport and downtown in boston
+7,how does ground transportation appear in oakland,what does ground transportation look like in oakland
+7,what is the state of ground transportation in oakland,what does ground transportation look like in oakland
+7,can you describe the ground transportation system in oakland,what does ground transportation look like in oakland
+7,transportation options by land in phoenix,ground transportation in phoenix
+7,phoenixs surface transportation systems,ground transportation in phoenix
+7,getting around by ground in the city of phoenix,ground transportation in phoenix

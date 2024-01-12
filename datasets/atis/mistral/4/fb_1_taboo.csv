@@ -1,0 +1,99 @@
+label,text,seed
+0,can you clarify the contrast between fare code q and fare code b,whats the difference between fare code q and fare code b
+0,how do fare code q and fare code b differ from one another,whats the difference between fare code q and fare code b
+0,can you provide a definition of the fare code fn,what is fare code fn
+0,what does fn stand for in terms of transportation fares,what is fare code fn
+0,what does fare code qx represent,describe fare code qx
+0,could you explain the significance of fare code qx,describe fare code qx
+0,what does fare code q signify,what is fare code q
+0,could you clarify the significance of fare code q,what is fare code q
+0,can you explain the meaning of the abbreviation ua,what does the abbreviation ua mean
+0,what does the abbreviation ua signify,what does the abbreviation ua mean
+0,what does the abbreviation s signify in the meal code,what does the meal code s stand for
+0,can you explain the meaning of the s in the meal code,what does the meal code s stand for
+1,could you give me an overview of the types of planes utilized by midway airlines,what kinds of planes are used by midway airlines
+1,may i inquire about the sorts of aircraft employed by midway airlines,what kinds of planes are used by midway airlines
+1,could you provide information on the aircraft fleet of twa,what planes are used by twa
+1,what are the planes that twa employs for its operations,what planes are used by twa
+1,can you identify the category of airplane referred to as the m80 model,what type of plane is an m80
+1,what kind of aircraft is classified as an m80 model,what type of plane is an m80
+1,could you please provide me with the details of the aircraft that will be used for my firstclass flight from philadelphia to san francisco including a stop in dallas,im going to leave philadelphia and i want to go to san francisco and i want to fly first class american and i want a stop in dallas can you please tell me what type of aircraft you will be flying
+1,is it possible for you to provide me with the specific aircraft that will be utilized for my firstclass flight from philadelphia to san francisco with a stop in dallas,im going to leave philadelphia and i want to go to san francisco and i want to fly first class american and i want a stop in dallas can you please tell me what type of aircraft you will be flying
+1,what are the different types of aircraft that provide firstclass seating options from philadelphia to dallas,what types of aircraft can i get a first class ticket from philadelphia to dallas
+1,can you inform me about the aircraft available for booking firstclass tickets from philadelphia to dallas,what types of aircraft can i get a first class ticket from philadelphia to dallas
+2,could you provide me with the nonstop flight cost from las vegas to houston for a round trip,show me round trip fares from las vegas to houston nonstop
+2,what are the nonstop flight costs from las vegas to houston for a fullcircle journey,show me round trip fares from las vegas to houston nonstop
+2,can you give me the nonstop flight price from las vegas to houston including the return trip,show me round trip fares from las vegas to houston nonstop
+2,could you display all the travel options from new york to miami that are scheduled for a tuesday departure,show me all fares from new york to miami leaving on a tuesday
+2,can you give me the various travel options from new york to miami that depart on a tuesday,show me all fares from new york to miami leaving on a tuesday
+2,what are the options for round trip tickets from cleveland to miami on us air that arrive before 4 pm,what round trip tickets are there from cleveland to miami on us air that arrive before 4 pm
+2,could you please tell me about the availability of round trip tickets from cleveland to miami on us air that arrive before 4 pm,what round trip tickets are there from cleveland to miami on us air that arrive before 4 pm
+2,what are the cheapest airline tickets from baltimore to dallas,show me the cheapest fare from baltimore to dallas
+2,could you give me the most budgetfriendly airfare options from baltimore to dallas,show me the cheapest fare from baltimore to dallas
+2,how much does a oneway flight from boston to washington dc in a firstclass cabin cost,how much does it cost to fly one way from boston to washington first class
+2,what is the price of a oneway ticket from boston to washington dc in a firstclass seat,how much does it cost to fly one way from boston to washington first class
+2,what is the cost of a roundtrip ticket in the first class from oak to atlanta,what is the cost of a round trip ticket first class between oak and atl
+2,can you provide the cost of a roundtrip ticket in the first class between oak and atlanta,what is the cost of a round trip ticket first class between oak and atl
+3,which airlines provide air travel services between boston and san francisco,what airlines fly from boston to san francisco
+3,what are the airlines that provide transportation from boston to san francisco,what airlines fly from boston to san francisco
+3,which airline has the most arrivals at atlanta airport,which airline has the most arrivals in atlanta
+3,what is the airline with the most flights arriving in atlanta,which airline has the most arrivals in atlanta
+3,can you tell me which airlines offer flights from new york to miami on fridays,airlines that fly to miami from new york on friday
+3,are there any airlines that provide flights from new york to miami on fridays,airlines that fly to miami from new york on friday
+3,can you give me a list of airlines that operate flights between denver and philadelphia,please show me airlines with flights from denver to philadelphia
+3,would you be able to tell me which airlines have flights available from denver to philadelphia,please show me airlines with flights from denver to philadelphia
+3,which airlines operate direct flights from philadelphia to san francisco,what airlines fly from philadelphia to san francisco
+3,are there any airlines that offer nonstop services from philadelphia to san francisco,what airlines fly from philadelphia to san francisco
+3,can you list the airlines that offer flights from boston to washington dc with intermediate stops,which airlines fly from boston to washington dc via other cities
+3,which airlines have routes from boston to washington dc that include stops in other cities,which airlines fly from boston to washington dc via other cities
+4,what is the shortest duration of time needed for a connection in houston intercontinental airport,what is the minimum connection time for houston intercontinental
+4,could you specify the briefest duration for a connection at houston intercontinental airport,what is the minimum connection time for houston intercontinental
+4,what are the travel arrangements for flights from pittsburgh to boston on july 9th in the evening,what is the schedule for flights between pittsburgh and boston on the evening of july ninth
+4,could you please inform me of the departure and arrival times for flights from pittsburgh to boston on july 9th in the evening,what is the schedule for flights between pittsburgh and boston on the evening of july ninth
+4,what is the departure time of the earliest flight from atlanta to denver,what time does the earliest flight which goes from atlanta to denver leave
+4,can you give me details about the departure time of the earliest flight that goes from atlanta to denver,what time does the earliest flight which goes from atlanta to denver leave
+4,what is the morning schedule for flights from the us to atlanta,what is americans schedule of morning flights to atlanta
+4,can you give me the morning flight schedule from the us to atlanta,what is americans schedule of morning flights to atlanta
+4,could you please inform me about the departure schedule of the most recent united airlines flight from denver to boston,what is the departure time of the latest flight of united airlines from denver to boston
+4,what is the departure time of the latest united airlines flight from denver to boston,what is the departure time of the latest flight of united airlines from denver to boston
+4,may i inquire about the arrival time in san francisco for the 755 am flight from washington,what is the arrival time in san francisco for the 755 am flight leaving washington
+4,can you give me the estimated arrival time in san francisco for the 755 am flight leaving washington,what is the arrival time in san francisco for the 755 am flight leaving washington
+5,what are the different flight schedules available from columbus to baltimore,show me all the flights from columbus to baltimore
+5,could you list out all the airlines that operate flights between columbus and baltimore,show me all the flights from columbus to baltimore
+5,what are the available departure options from boston today,show me all the flights out of boston today
+5,could you give me information on the flights leaving boston today,show me all the flights out of boston today
+5,can you inform me about the transportation options from denver to san francisco on october 15th,what are the flights from denver to san francisco on tuesday october fifteenth
+5,may i know the availabilities of flights from denver to san francisco on october 15th,what are the flights from denver to san francisco on tuesday october fifteenth
+5,can you arrange a flight from philadelphia to dallas with a stopover in atlanta,i want to fly from philadelphia to dallas and make a stopover in atlanta
+5,is it possible to book a flight from philadelphia to dallas with a layover in atlanta,i want to fly from philadelphia to dallas and make a stopover in atlanta
+5,how can i secure a flight from philadelphia to dallas with a stopover in atlanta,i want to fly from philadelphia to dallas and make a stopover in atlanta
+5,what are the flights available from indianapolis to orlando on december 27th and how much do they cost,give me the flights with the fares from indianapolis to orlando on december twenty seventh
+5,could you provide me with the details of the flights from indianapolis to orlando on december 27th including the fares,give me the flights with the fares from indianapolis to orlando on december twenty seventh
+5,can you give me a list of afternoon flights available from houston to dallas,show afternoon flights from houston to dallas
+5,what are the afternoon flight options from houston to dallas,show afternoon flights from houston to dallas
+6,what is the total number of flights departing from boston for dallas fort worth before 9 am in the morning,list the number of flights leaving boston for dallas fort worth before 9 am in the morning
+6,can you give me the number of flights from boston to dallas fort worth that leave before 9 am in the morning,list the number of flights leaving boston for dallas fort worth before 9 am in the morning
+6,how many flights are available from boston to dallas fort worth before 9 am in the morning,list the number of flights leaving boston for dallas fort worth before 9 am in the morning
+6,can you tell me the various categories of air travel options,how many different flight classes are there
+6,how many different types of aviation services are offered,how many different flight classes are there
+6,how many cities does delta airlines provide premium seating options to,how many cities are served by delta airlines with first class flights
+6,what is the total number of cities served by delta airlines with premium seating,how many cities are served by delta airlines with first class flights
+6,how many flights operated by united airlines land at san francisco international airport,how many united flights are there to san francisco
+6,can you tell me the total number of united flights that arrive in the city of san francisco,how many united flights are there to san francisco
+6,how many different types of reservation services are accessible,how many booking classes are there
+6,how many distinct booking categories are available for customers to choose from,how many booking classes are there
+6,how many flights depart from dallas to baltimore on july 19th,how many flights go from dallas to baltimore on july nineteenth
+6,on july 19th how many flights are available from dallas to baltimore,how many flights go from dallas to baltimore on july nineteenth
+7,while i am in pittsburgh what modes of transportation are accessible on the ground,while im in pittsburgh what ground transportation is available
+7,in pittsburgh what are the ground transportation options while i am there,while im in pittsburgh what ground transportation is available
+7,can you suggest a form of ground transportation in seattle,what kind of ground transportation can you offer me in seattle
+7,in seattle what type of ground transportation is available to me,what kind of ground transportation can you offer me in seattle
+7,rephrased 1 please display the options for ground transportation in dallas,show me dallas ground transport
+7,rephrased 2 can you provide me with the available ground transportation options in dallas,show me dallas ground transport
+7,rephrased 3 could you show me the transportation options available in dallas specifically focusing on ground transport,show me dallas ground transport
+7,i require ground transportation in san diego for the period from tuesday july sixth to wednesday july seventh can you assist me with this,and ill need ground transportation for tuesday july sixth to wednesday july seventh in san diego
+7,can you help me arrange transportation in san diego for the time frame from tuesday july sixth to wednesday july seventh without using the words options transportation or ground,and ill need ground transportation for tuesday july sixth to wednesday july seventh in san diego
+7,is it possible to arrange ground transportation at denver airport,please give ground transportation at denver airport
+7,would it be possible to secure ground transportation at denver airport,please give ground transportation at denver airport
+7,what are the available options for ground travel in pittsburgh,please list available ground transportation in pittsburgh
+7,can you name the ground transportation choices accessible in pittsburgh,please list available ground transportation in pittsburgh

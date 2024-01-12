@@ -1,0 +1,10 @@
+usage: train_bert_news.py [-h] [-i ITERATION]
+train_bert_news.py: error: unrecognized arguments: --i=0
+usage: train_bert_news.py [-h] [-i ITERATION]
+train_bert_news.py: error: unrecognized arguments: --i=1
+usage: train_bert_news.py [-h] [-i ITERATION]
+train_bert_news.py: error: unrecognized arguments: --i=2
+usage: train_bert_news.py [-h] [-i ITERATION]
+train_bert_news.py: error: unrecognized arguments: --i=3
+usage: train_bert_news.py [-h] [-i ITERATION]
+train_bert_news.py: error: unrecognized arguments: --i=4

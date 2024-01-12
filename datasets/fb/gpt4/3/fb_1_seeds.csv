@@ -1,0 +1,181 @@
+label,text,seed
+0,inform me about the subsequent route to take after joining interstate 695 towards glen burnie,Tell me what is the next route after merging onto highway i - 695 toward Glen Bernie .
+0,what is the following path i should follow once i enter highway i695 heading in the direction of glen burnie,Tell me what is the next route after merging onto highway i - 695 toward Glen Bernie .
+0,after getting onto interstate 695 and going toward glen burnie which route comes next,Tell me what is the next route after merging onto highway i - 695 toward Glen Bernie .
+0,avoid congestion on 10th street starting from my current position,Bypass traffic on 10th street from my location
+0,circumvent traffic along 10th street originating from my spot,Bypass traffic on 10th street from my location
+0,dodge the traffic on 10th street commencing from where i am,Bypass traffic on 10th street from my location
+0,take me to the city lights bookstore as quickly as you can,Get me to city lights bookstore as fast as possible .
+0,i need to reach city lights bookstore in the shortest time possible,Get me to city lights bookstore as fast as possible .
+0,please make sure we get to city lights bookstore with utmost haste,Get me to city lights bookstore as fast as possible .
+0,what is the method for avoiding the 10mile traffic jam on road 94,How do I bypass the 10 mile Road congestion at 94
+0,can you guide me on how to circumvent the 10 mile roadblock at highway 94,How do I bypass the 10 mile Road congestion at 94
+0,how can i get around the congestion at the 10mile stretch on route 94,How do I bypass the 10 mile Road congestion at 94
+0,whats the quickest route to get back home,What is the shortest way home
+0,what is the most direct path to return home,What is the shortest way home
+0,which way is the fastest to reach home,What is the shortest way home
+0,instructions for getting to eaton park place in columbus starting from my home,Directions to Eaton Park Place is Columbus from my house
+0,how to navigate from my house to eaton park place in columbus,Directions to Eaton Park Place is Columbus from my house
+0,a guide for reaching eaton park place in columbus departing from my residence,Directions to Eaton Park Place is Columbus from my house
+1,what is the distance between our current location and new york,how far is New York from here
+1,can you tell me the miles separating us from new york,how far is New York from here
+1,from this point how many miles do we need to cover to get to new york,how far is New York from here
+1,what is the length separating pensacola and gulf breeze,What 's distance between pensacola and gulf breeze
+1,how far apart are pensacola and gulf breeze,What 's distance between pensacola and gulf breeze
+1,can you tell me the mileage between pensacola and gulf breeze,What 's distance between pensacola and gulf breeze
+1,what is the distance between seattle and denver,How far is Seattle from Denver
+1,how many miles separate seattle from denver,How far is Seattle from Denver
+1,can you tell me the distance separating seattle and denver,How far is Seattle from Denver
+1,what is the distance between los angeles and new york,how far is los angeles from new york
+1,can you tell me the miles separating los angeles from new york,how far is los angeles from new york
+1,how many miles apart are los angeles and new york,how far is los angeles from new york
+1,what is the length separating india and the united states,whats the distance between india and USA
+1,how far away is india from the usa,whats the distance between india and USA
+1,can you tell me the distance that lies between india and the usa,whats the distance between india and USA
+1,what is the distance to the airport,How far is the airport ?
+1,can you tell me the proximity of the airport,How far is the airport ?
+1,how many miles or kilometers away is the airport,How far is the airport ?
+2,can i still arrive at work punctually if i depart 15 minutes before and theres construction going on,Will leaving at a quarter til get me to work on time eventhough theres comstruction
+2,despite the ongoing construction is it possible to reach work on time if i leave a quarter till,Will leaving at a quarter til get me to work on time eventhough theres comstruction
+2,if i leave 15 minutes earlier considering the construction will i make it to work on time,Will leaving at a quarter til get me to work on time eventhough theres comstruction
+2,if i depart from this place immediately when will i arrive at my mothers residence,If I leave here right now when will I get to my mom 's house ?
+2,assuming i exit this location right away at what time will i reach my moms home,If I leave here right now when will I get to my mom 's house ?
+2,should i take off from here at this moment what time can i expect to be at my moms dwelling,If I leave here right now when will I get to my mom 's house ?
+2,is it possible for me to catch a bus to memphis and arrive there by 300 pm today,Can I take a bus to Memphis and get their at 3 : 00 this afternoon ?
+2,can i reach memphis by bus and be there at 300 pm today,Can I take a bus to Memphis and get their at 3 : 00 this afternoon ?
+2,is taking a bus to memphis and arriving by 300 pm this afternoon an option,Can I take a bus to Memphis and get their at 3 : 00 this afternoon ?
+2,considering the present traffic conditions is it possible for me to reach green bay from kenosha prior to 4 pm,"Given the current traffic flow , can I get from Kenosha to Green Bay before 4 pm ?"
+2,with the existing traffic situation am i able to arrive in green bay from kenosha by 4 pm or earlier,"Given the current traffic flow , can I get from Kenosha to Green Bay before 4 pm ?"
+2,taking into account the ongoing traffic levels can i make it to green bay starting from kenosha before the clock hits 4 pm,"Given the current traffic flow , can I get from Kenosha to Green Bay before 4 pm ?"
+2,is it possible for me to arrive at billys house by 6 pm tonight for the celebration,Can I make it to Billy 's house by 6 pm for the party tonight ?
+2,will i be able to reach billys place before 6 pm this evening to attend the party,Can I make it to Billy 's house by 6 pm for the party tonight ?
+2,can i manage to get to billys residence in time for the 6 pm festivities tonight,Can I make it to Billy 's house by 6 pm for the party tonight ?
+2,what time will i arrive at the strawberry festival if i depart at 6,"If I leave at 6 , what time will I make it to the Strawberry Festival ?"
+2,if my departure is at 6 when can i expect to reach the strawberry festival,"If I leave at 6 , what time will I make it to the Strawberry Festival ?"
+2,in case of leaving at 6 at what moment will i be present at the strawberry festival,"If I leave at 6 , what time will I make it to the Strawberry Festival ?"
+3,what time should i depart for the airport,How early should I leave for the airport
+3,at what hour do i need to set off for the airport,How early should I leave for the airport
+3,when would be the best time to embark on my journey to the airport,How early should I leave for the airport
+3,when would be the ideal moment to depart,when is the best time to leave
+3,at what point is it optimal to take off,when is the best time to leave
+3,when should we consider the most favorable time to go,when is the best time to leave
+3,if my flight departs from oia at 2 pm and i want to arrive 2 hours in advance what time should i leave,My flight leave OIA at 2 pm what time should I leave to get there 2 hours early ?
+3,what time do i need to head out if i want to reach oia two hours before my 2 pm flight,My flight leave OIA at 2 pm what time should I leave to get there 2 hours early ?
+3,to be at oia 2 hours before my flight at 2 pm at what time should i set off,My flight leave OIA at 2 pm what time should I leave to get there 2 hours early ?
+3,if i have to be at baptist urgent care on 9 mile road by 2 pm when should i depart from sacred heart hospital,what time do I need to leave sacred heart hospital if I need to be at Baptist urgent care on 9 mile road at 2 pm .
+3,in order to arrive at baptist urgent care on 9 mile road by 2 pm at what time must i leave sacred heart hospital,what time do I need to leave sacred heart hospital if I need to be at Baptist urgent care on 9 mile road at 2 pm .
+3,what is the necessary departure time from sacred heart hospital in order to reach baptist urgent care on 9 mile road by 2 pm,what time do I need to leave sacred heart hospital if I need to be at Baptist urgent care on 9 mile road at 2 pm .
+3,at what time must i depart to ensure arrival at the heats match,what time should I leave to make it to the heat 's game
+3,when do i need to set off in order to reach the heats game in time,what time should I leave to make it to the heat 's game
+3,what is the ideal departure time for me to make it to the heats event,what time should I leave to make it to the heat 's game
+3,at what time do i need to leave my house in order to arrive at my uncles birthday celebration in berkeley,when should i start from home to reach my uncle 's birthday party in Berkeley .
+3,what is the ideal departure time from my home for making it to my uncles birthday event in berkeley,when should i start from home to reach my uncle 's birthday party in Berkeley .
+3,to attend my uncles birthday party in berkeley when must i begin my journey from home,when should i start from home to reach my uncle 's birthday party in Berkeley .
+4,if i depart from work at 6 pm what will be the duration of my journey back home,How long will it take to get home from work if I leave at 6 pm
+4,upon leaving work at 6 pm how much time will the trip to my house require,How long will it take to get home from work if I leave at 6 pm
+4,what is the estimated travel time for reaching home if i head out of work at 6 pm,How long will it take to get home from work if I leave at 6 pm
+4,how long would it take for me to reach chicago if i begin at my home,If I start at my house how long will it take me to get to chicago ?
+4,what is the duration of travel from my house to chicago,If I start at my house how long will it take me to get to chicago ?
+4,if i commence my journey from my residence how much time will it require to arrive in chicago,If I start at my house how long will it take me to get to chicago ?
+4,using solely back roads how long will it take to drive from this location to my mothers residence,"Taking only back roads , what is the drive time from here to my mom 's house ?"
+4,on just the back roads what is the duration of the drive from our current position to my moms place,"Taking only back roads , what is the drive time from here to my mom 's house ?"
+4,by only traveling on secondary roads can you tell me the estimated driving time from this point to my mothers house,"Taking only back roads , what is the drive time from here to my mom 's house ?"
+4,what is the duration of a flight from charlotte to london,how long does it take to fly from charlotte to london
+4,how much time does it require to travel by air from charlotte to london,how long does it take to fly from charlotte to london
+4,whats the flying time between charlotte and london,how long does it take to fly from charlotte to london
+4,what is the duration required for me to reach south district while avoiding highways,How long will it take for me to South District without taking highway ?
+4,without using highways how much time is needed for me to get to south district,How long will it take for me to South District without taking highway ?
+4,how many minutes or hours will it consume for reaching south district without taking highway,How long will it take for me to South District without taking highway ?
+4,what is the duration required to travel on the feeder road from the comfort exit till i reach the spurs match,How long will it take if I stay on the feeder road from the Comfort exit to the Spurs game ?
+4,how much time will be needed if i continue on the feeder road from the comfort exit up to the spurs game,How long will it take if I stay on the feeder road from the Comfort exit to the Spurs game ?
+4,if i remain on the feeder road starting at the comfort exit how many minutes or hours would it take to get to the spurs event,How long will it take if I stay on the feeder road from the Comfort exit to the Spurs game ?
+5,was the bridge road flooded due to the rain,Did the rain cause the bridge road to flood ?
+5,did precipitation lead to the flooding of the bridge road,Did the rain cause the bridge road to flood ?
+5,was the inundation of the bridge road a result of the rainfall,Did the rain cause the bridge road to flood ?
+5,is the snow impacting the metro buses this morning,Is the snow affecting the metro buses this morning ?
+5,are the metro buses being affected by the snow this morning,Is the snow affecting the metro buses this morning ?
+5,are this mornings metro buses experiencing delays or disruptions due to the snow,Is the snow affecting the metro buses this morning ?
+5,on the route to the strawberry festival from boerne are there any flooded roads,are the roads flooded on the way to the Strawberry Festival from Boerne ?
+5,is there any road flooding along the path from boerne to the strawberry festival,are the roads flooded on the way to the Strawberry Festival from Boerne ?
+5,from boerne heading to the strawberry festival can we expect flooded roads,are the roads flooded on the way to the Strawberry Festival from Boerne ?
+5,on the northbound lane of hwy 331 is the bridge currently unavailable for use,Is the bridge still out on the Northbound lane of Hwy 331
+5,is the northbound lanes bridge on hwy 331 still closed down,Is the bridge still out on the Northbound lane of Hwy 331
+5,regarding the northbound lane on hwy 331 has the bridge issue been resolved,Is the bridge still out on the Northbound lane of Hwy 331
+5,is the route to main st in portland foggy this morning,Are the road to Main St in Portland fuggy this morning ?
+5,this morning is there fog on the road leading to main st in portland,Are the road to Main St in Portland fuggy this morning ?
+5,can one expect foggy conditions on the way to main st in portland this morning,Are the road to Main St in Portland fuggy this morning ?
+5,is there ice on the roads leading to chicago this morning,Are the roads to Chicago icy this morning ?
+5,this morning are the streets heading to chicago slippery due to ice,Are the roads to Chicago icy this morning ?
+5,have the roadways towards chicago become icy this morning,Are the roads to Chicago icy this morning ?
+6,are there any gas stations ill encounter on my route back home,Will I pass any gas stations on the way home
+6,on my journey home will i come across any fuel stations,Will I pass any gas stations on the way home
+6,can i expect to find any gas stations as i travel towards my home,Will I pass any gas stations on the way home
+6,are there going to be any food courts on our route,Will there be any food courts along the way ?
+6,can we expect to find any food courts while traveling,Will there be any food courts along the way ?
+6,during our journey will we come across any food courts,Will there be any food courts along the way ?
+6,can i find a fuel station along my path,Is there a gas station on my route
+6,does my route include a petrol station,Is there a gas station on my route
+6,is a gas station present on the way ill be traveling,Is there a gas station on my route
+6,how many bus stops would i encounter on the journey from maadi to giza,how many bus station would i pass from maadi to giza ?
+6,what is the total number of bus stations between maadi and giza,how many bus station would i pass from maadi to giza ?
+6,from maadi to giza how many bus stations will i pass by,how many bus station would i pass from maadi to giza ?
+6,is my path going to include any state parks,Are there any state parks along my route ?
+6,will i encounter any state parks on my journey,Are there any state parks along my route ?
+6,can i find any state parks while traveling my route,Are there any state parks along my route ?
+6,does elsadat street have a designated bicycle path,Is there a bike lane on Elsadat Street ?
+6,can one find a cycling lane along elsadat street,Is there a bike lane on Elsadat Street ?
+6,is a bike lane available on elsadat street for cyclists,Is there a bike lane on Elsadat Street ?
+7,details about todays traffic,traffic details today
+7,information on todays road conditions,traffic details today
+7,updates on traffic for today,traffic details today
+7,whats the driving experience like going to andys,How is the drive to Andys
+7,how would you describe the journey towards andys place,How is the drive to Andys
+7,can you tell me about the trip when heading to andys location,How is the drive to Andys
+7,at the moment is the freeway congested,is the freeway crowded right now ?
+7,are there currently a lot of vehicles on the freeway,is the freeway crowded right now ?
+7,is there heavy traffic on the freeway at this instant,is the freeway crowded right now ?
+7,in the afternoon how is the traffic congestion in bellevue,"What is traffice congestion in Bellevue like , in the afternoon ?"
+7,how would you describe the traffic jams in bellevue during the afternoon hours,"What is traffice congestion in Bellevue like , in the afternoon ?"
+7,whats the situation of traffic gridlock in bellevue in the afternoon,"What is traffice congestion in Bellevue like , in the afternoon ?"
+7,whats the most recent update on traffic conditions in my area,what is the latest traffic information where I live
+7,can you provide me with the current traffic details for my locality,what is the latest traffic information where I live
+7,what are the newest traffic updates for the place i reside,what is the latest traffic information where I live
+7,are there any accidents obstructing traffic en route to the city center,Is there accidents blocking traffic on the way downtown
+7,on the way to downtown have any accidents caused a halt in traffic,Is there accidents blocking traffic on the way downtown
+7,is the path towards the downtown area hindered by any road accidents,Is there accidents blocking traffic on the way downtown
+8,what is the location of the upcoming rest area,Where is the next rest stop
+8,can you tell me the position of the following rest stop,Where is the next rest stop
+8,at what point can we find the next resting place,Where is the next rest stop
+8,where can i locate the closest pharmacy to me,"I need to find the nearest drug store , where can I find one ?"
+8,how can i discover a nearby drug store,"I need to find the nearest drug store , where can I find one ?"
+8,in which direction should i go to find the nearest chemist,"I need to find the nearest drug store , where can I find one ?"
+8,what is the location of mikes farm with the christmas lights exhibition,Where is Mike 's farm that has the Christmas lights display ?
+8,can you tell me where to find mikes farm featuring the christmas lights show,Where is Mike 's farm that has the Christmas lights display ?
+8,where can i find mikes farm that showcases the christmas lights spectacle,Where is Mike 's farm that has the Christmas lights display ?
+8,does the downtown arena have a parking lot available,is there a parking lot at the downtown arena
+8,can one find a parking lot at the downtown arena,is there a parking lot at the downtown arena
+8,is a parking lot provided at the downtown arena,is there a parking lot at the downtown arena
+8,nearest atm for money pass in my vicinity,Closest money pass atm near me
+8,money pass atm in closest proximity to me,Closest money pass atm near me
+8,where is the closest money pass atm in my area,Closest money pass atm near me
+8,what is the nearest gas stations location,Where 's the closest gas station
+8,can you tell me where the closest fuel station is,Where 's the closest gas station
+8,where can i find the most nearby gas station,Where 's the closest gas station
+9,different path to bypass congestion,Alternate route to avoid traffic
+9,alternative way to evade heavy traffic,Alternate route to avoid traffic
+9,option for circumventing road crowdedness,Alternate route to avoid traffic
+9,are you able to offer a different path,can you provide an alternate route
+9,is it possible for you to suggest another way,can you provide an alternate route
+9,can you supply a varied course,can you provide an alternate route
+9,is there a quicker way to reach downtown portland,is there a faster route to downtown Portland
+9,can i find a speedier path to downtown portland,is there a faster route to downtown Portland
+9,whats the swiftest route to downtown portland,is there a faster route to downtown Portland
+9,provide me with a different path that has fewer traffic,give me an alternate route with less traffic
+9,suggest another way to go that isnt as congested,give me an alternate route with less traffic
+9,can you recommend an alternative road with lower traffic density,give me an alternate route with less traffic
+9,is there an alternative path i can use to avoid this congestion,can I take another route to get out of this traffic
+9,can i find a different way to escape this traffic jam,can I take another route to get out of this traffic
+9,are there other routes available to bypass this heavy traffic,can I take another route to get out of this traffic
+9,can i use another exit to evade the traffic congestion,Is there a different exit I can take to avoid traffic
+9,is it possible to take an alternate exit to bypass heavy traffic,Is there a different exit I can take to avoid traffic
+9,are there alternative exits available for dodging traffic jams,Is there a different exit I can take to avoid traffic

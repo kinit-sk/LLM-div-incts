@@ -1,0 +1,100 @@
+label,text,seed
+0,could you clarify what is meant by qw when referring to transportation charges,what is fare code qw
+0,what does qw stand for in relation to transportation expenses,what is fare code qw
+0,what is the significance of the symbol yn,what does the fare code yn mean
+0,can you elaborate on the meaning behind the code yn,what does the fare code yn mean
+0,could you give an overview of the function of restriction ap 55,what is restriction ap 55
+0,can you describe the purpose of restriction ap 55,what is restriction ap 55
+0,can you provide a brief explanation of meal codes,explain meal codes sd d
+0,what do meal codes signify,explain meal codes sd d
+0,what does fare code f represent,please explain fare code f
+0,could you provide more information about the meaning of fare code f,please explain fare code f
+0,could you shed some light on the meaning of fare code qo,what is fare code qo mean
+0,what does fare code qo signify,what is fare code qo mean
+1,rephrased,i want to go and take a plane in atlanta and fly to boston
+1,i desire to travel from atlanta to boston by means of an airborne vehicle,i want to go and take a plane in atlanta and fly to boston
+1,i wish to depart from atlanta and arrive in boston using a mode of transportation in the sky,i want to go and take a plane in atlanta and fly to boston
+1,i am interested in traveling from atlanta to boston via a form of aerial transport,i want to go and take a plane in atlanta and fly to boston
+1,can you tell me about the types of aircraft utilized by canadian airlines,show me the type of aircraft that canadian airlines uses
+1,what are the types of aircraft employed by canadian airlines,show me the type of aircraft that canadian airlines uses
+1,which aircraft flies from boston to washington dc before 9 am,what type of aircraft leaves from boston to washington dc before 9 am
+1,can you identify the type of aircraft that departs from boston to washington dc before 9 am,what type of aircraft leaves from boston to washington dc before 9 am
+1,what type of aircraft are employed on flights from cleveland to dallas that depart prior to noon,what type of aircraft are used on flights from cleveland to dallas that leave before noon
+1,what kind of air vehicles are utilized on flights from cleveland to dallas that depart prior to noon,what type of aircraft are used on flights from cleveland to dallas that leave before noon
+1,what is the aircraft employed for the 8 am flight from san francisco to atlanta,on the 8 am flight from san francisco to atlanta what type of aircraft is used
+1,what type of aircraft is used for the 8 am flight from san francisco to atlanta,on the 8 am flight from san francisco to atlanta what type of aircraft is used
+1,what is the smallest airborne vehicle that takes off from pittsburgh and lands in baltimore on may 7th,what is the smallest aircraft available flying from pittsburgh to baltimore arriving on may seventh
+1,can you give me details about the smallest airborne vehicle that departs from pittsburgh and arrives in baltimore on may 7th,what is the smallest aircraft available flying from pittsburgh to baltimore arriving on may seventh
+2,can you provide the cheapest way to travel between dallas and denver,what is the cheapest fare from dallas to denver round trip
+2,how much would it cost to travel from dallas to denver and back again,what is the cheapest fare from dallas to denver round trip
+2,how much does it cost to travel from boston to san francisco on united airlines flight 21,what is the fare from boston to san francisco on united airlines flight 21
+2,can you tell me the price of a oneway journey from boston to san francisco on united airlines flight 21,what is the fare from boston to san francisco on united airlines flight 21
+2,can you tell me the price of the trip from san francisco to dallas fort worth on delta flight 852,what is the fare from san francisco to dallas fort worth on delta flight 852
+2,what is the amount i need to pay for a ticket from san francisco to dallas fort worth on delta flight 852,what is the fare from san francisco to dallas fort worth on delta flight 852
+2,could you assist me in securing a single firstclass ticket from dallas to fort worth to san francisco,i need one first class ticket from dallas fort worth to san francisco
+2,i require a single firstclass ticket from dallas to fort worth to san francisco can you help me with that,i need one first class ticket from dallas fort worth to san francisco
+2,can you provide me with the cost of a single ticket from atlanta to san francisco and the cost of a return ticket,how much is a first class round trip from atlanta to san francisco
+2,what is the cost of a oneway ticket from atlanta to san francisco and what is the cost of a return ticket,how much is a first class round trip from atlanta to san francisco
+2,original phrase how much is a round trip fare from memphis to seattle don’t use the words “round” “cost” or “ticket” in your responses,how much is a round trip fare from memphis to seattle
+2,what is the cost of a oneway journey from memphis to seattle,how much is a round trip fare from memphis to seattle
+2,what is the price of a oneway ticket from memphis to seattle,how much is a round trip fare from memphis to seattle
+3,which airlines employ ac and as,what airlines are ac and as
+3,what carriers utilize ac and as,what airlines are ac and as
+3,which airlines operate flights between toronto and san francisco,show me the airlines that fly from toronto to san francisco
+3,can you give me a list of airlines that have flights departing from toronto and arriving at san francisco,show me the airlines that fly from toronto to san francisco
+3,can you tell me which airlines operate flights between toronto and san diego,what airlines fly from toronto to san diego
+3,what are the airlines that provide flights from toronto to san diego,what airlines fly from toronto to san diego
+3,what is the airline that has the most business class flights available,which airline has the most business class flights
+3,could you please tell me which airline operates the most business class flights,which airline has the most business class flights
+3,which airlines have routes from boston to pittsburgh,what airlines fly from boston to pittsburgh
+3,what airlines provide transportation from boston to pittsburgh,what airlines fly from boston to pittsburgh
+3,which airlines have routes between boston and san francisco,what airlines fly between boston and san francisco
+3,are there any airlines that operate flights between boston and san francisco,what airlines fly between boston and san francisco
+4,may i obtain the flight schedules for american and delta airlines departing from dallas fort worth international airport on august 15th,could you give me the schedule of flights for american and delta to dfw on august fifteenth
+4,can you furnish me with the flight plans for american and delta airlines operating from dallas fort worth international airport on august 15th,could you give me the schedule of flights for american and delta to dfw on august fifteenth
+4,what are the departure and arrival times for coach flights between boston and baltimore on wednesday,show me times for coach flights between boston and baltimore on wednesday
+4,can you list the coach flight options between boston and baltimore on wednesday including their corresponding times,show me times for coach flights between boston and baltimore on wednesday
+4,could you tell me the departure time of flight aa 459,what time does flight aa 459 depart
+4,what is the departure schedule for flight aeromexico 459,what time does flight aa 459 depart
+4,at what time does the flight from washington to san francisco arrive on tuesday morning,what time does the tuesday morning 755 flight leaving washington arrive in san francisco
+4,on tuesday morning what is the arrival time for the 755 flight from washington to san francisco,what time does the tuesday morning 755 flight leaving washington arrive in san francisco
+4,could you provide me with a list of departure options on wednesday from denver to oakland,what times on wednesday could i take a plane from denver to oakland
+4,on wednesday what are the departure schedules from denver to oakland,what times on wednesday could i take a plane from denver to oakland
+4,what are the departure schedules from san francisco to atlanta,show me times for flights from san francisco to atlanta
+4,could you kindly provide me with information on the departure times from san francisco to atlanta,show me times for flights from san francisco to atlanta
+5,what are the available flight options from boston to pittsburgh in the morning,what flights leave from boston to pittsburgh in the morning
+5,are there any morning flights that depart from boston and arrive in pittsburgh,what flights leave from boston to pittsburgh in the morning
+5,on monday november 11th 1991 what mode of transportation was used to travel from denver to washington dc,from denver to washington dc on monday november eleventh 1991
+5,on november 11th 1991 what transportation options were available for travel from denver to washington dc,from denver to washington dc on monday november eleventh 1991
+5,can you provide me with the travel options on continental airlines from indianapolis to san diego tomorrow afternoon,show me the flights on continental from indianapolis to san diego in the afternoon tomorrow
+5,would it be possible for you to show me the travel options on continental airlines from indianapolis to san diego tomorrow afternoon,show me the flights on continental from indianapolis to san diego in the afternoon tomorrow
+5,could you please present me with all the possible departure locations for flights to love field,show me flights from all airports to love field
+5,what are the various departure options for flights to love field,show me flights from all airports to love field
+5,could you provide me with details about the transportation options between pittsburgh and philadelphia,id like to see flights from pittsburgh to philadelphia
+5,what are the travel options available to me from pittsburgh to philadelphia,id like to see flights from pittsburgh to philadelphia
+5,what are the available transportation options from atlanta to baltimore in the afternoon,what are the afternoon flights from atlanta to baltimore
+5,are there any afternoon flights from atlanta to baltimore that i can book,what are the afternoon flights from atlanta to baltimore
+6,can you provide the number of flights from boston to dallas fort worth that depart before 9 am in the morning,list the number of flights leaving boston for dallas fort worth before 9 am in the morning
+6,what is the total number of flights that leave boston for dallas fort worth before 9 am in the morning,list the number of flights leaving boston for dallas fort worth before 9 am in the morning
+6,how many flights offered by american airlines have firstclass cabins,how many first class flights are provided by american airlines
+6,can you tell me the total number of american airlines flights that offer firstclass accommodations,how many first class flights are provided by american airlines
+6,how many cities does delta airlines offer premium class travel to,how many cities are served by delta airlines with first class flights
+6,how many cities does delta airlines provide luxury service to,how many cities are served by delta airlines with first class flights
+6,how many flights does eastern airlines operate between boston and atlanta,how many flights does eastern airlines have from boston to atlanta
+6,can you tell me how many eastern airlines flights are available from boston to atlanta,how many flights does eastern airlines have from boston to atlanta
+6,what is the total number of united flights that arrive in san francisco,how many united flights are there to san francisco
+6,is it possible to determine the number of united flights that travel to san francisco,how many united flights are there to san francisco
+6,how many flights are available from dallas to baltimore on july 19th,how many flights go from dallas to baltimore on july nineteenth
+6,can you give me the total number of flights that operate between dallas and baltimore on july 19th,how many flights go from dallas to baltimore on july nineteenth
+7,can you provide me with information on the ground transportation options at denver airport,what ground transportation is available at denver airport
+7,can you tell me about the ground transportation services that are available at denver airport,what ground transportation is available at denver airport
+7,what are the different types of ground transportation options available in dallas,what ground transportation is there in dallas
+7,how do i get around dallas without relying on air transportation,what ground transportation is there in dallas
+7,what are the different means of getting from downtown washington dc to the city,fine can you give me information on ground transportation in washington dc to downtown
+7,can you provide me with information on the various types of transportation options available to travel from downtown washington dc to the city,fine can you give me information on ground transportation in washington dc to downtown
+7,what are some of the different types of transportation available in dallas and boston,ground transportation in dallas and boston
+7,can you describe the various modes of transportation available in dallas and boston,ground transportation in dallas and boston
+7,are there any other means of transportation available for traveling from atlanta to atlanta,ground transportation atl to atlanta
+7,besides flying are there any alternative methods of transportation from atlanta to atlanta,ground transportation atl to atlanta
+7,what are the available ground transportation options in atlanta,in atlanta i would like information on ground transportation
+7,can you provide information on transportation methods in atlanta that do not involve flying,in atlanta i would like information on ground transportation
