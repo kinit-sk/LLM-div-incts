@@ -1,6 +1,6 @@
 # Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation
 
-This is data for the paper: "Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation"
+This is data for the paper: ["Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation"](https://arxiv.org/abs/2401.06643)
 
 ## Abstract
 
@@ -20,4 +20,13 @@ The directory ``results`` contains ``.xlsx`` files with performance results of B
 
 ### Paper citing
 
-TBA
+```
+@misc{cegin2024effects,
+      title={Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation}, 
+      author={Jan Cegin and Branislav Pecher and Jakub Simko and Ivan Srba and Maria Bielikova and Peter Brusilovsky},
+      year={2024},
+      eprint={2401.06643},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
