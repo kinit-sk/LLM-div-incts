@@ -1,6 +1,6 @@
 # Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation
 
-This is data for the paper: ["Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation"](https://arxiv.org/abs/2401.06643)
+This is data for the paper: ["Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation"](https://arxiv.org/abs/2401.06643) published at [ACL'24](https://2024.aclweb.org/) main.
 
 ## Abstract
 
@@ -21,12 +21,24 @@ The directory ``results`` contains ``.xlsx`` files with performance results of B
 ### Paper citing
 
 ```
-@misc{cegin2024effects,
-      title={Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation}, 
-      author={Jan Cegin and Branislav Pecher and Jakub Simko and Ivan Srba and Maria Bielikova and Peter Brusilovsky},
-      year={2024},
-      eprint={2401.06643},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{cegin-etal-2024-effects,
+    title = "Effects of diversity incentives on sample diversity and downstream model performance in {LLM}-based text augmentation",
+    author = "Cegin, Jan  and
+      Pecher, Branislav  and
+      Simko, Jakub  and
+      Srba, Ivan  and
+      Bielikova, Maria  and
+      Brusilovsky, Peter",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.710",
+    pages = "13148--13171"
 }
+
 ```
